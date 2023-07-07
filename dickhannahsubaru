@@ -1,0 +1,1678 @@
+
+
+
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L36XHD08QZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L36XHD08QZ');
+</script>
+<script src="https://cdn.complyauto.com/cookiebanner/banner/7717286e-374e-4e66-a8ed-10d456cb0f39/blocker.js"></script>
+  <script src="https://www.googleoptimize.com/optimize.js?id=OPT-PD7HMN6"></script>
+<style>
+  /*disable lux*/
+  #longtailux_link_widget-2 {display:none;}
+  /*disable capital one disclaimer*/
+  .theme--default-tall .ddr-entry-button-v1-cta__no-impact{display:none!important;}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}img{max-width:100%;height:auto;vertical-align:middle;border:0;-ms-interpolation-mode:bicubic}button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle}button,input[type=button],input[type=reset],input[type=submit]{cursor:pointer;-webkit-appearance:button}iframe{border:0}*,:after,:before{box-sizing:border-box}html{overflow-x:hidden}body{margin:0;overflow-x:hidden}a{text-decoration:none}[tabindex="-1"]{outline:0!important}.site:after,.site:before,.x-site:after,.x-site:before{content:" ";display:table}.site:after,.x-site:after{clear:both}body{line-height:1.7; color:#000!important;}.x-root{display:-webkit-flex;display:flex}.x-root .site,.x-root .x-site{-webkit-flex:1 1 auto;flex:1 1 auto;position:relative;width:100%;min-width:1px}.x-colophon{position:relative}p{margin:0 0 1.313em}b,strong{font-weight:700}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{margin:1.25em 0 .2em;text-rendering:optimizelegibility}.h1,h1{margin-top:1em;font-size:400%;line-height:1.1}.h2,h2{font-size:285.7%;line-height:1.2}.h4,.h5,.h6,h4,h5,h6{margin-top:1.75em;margin-bottom:.5em;line-height:1.4}.h5,h5{font-size:150%}.h6,h6{font-size:100%;text-transform:uppercase}ol,ul{padding:0;margin:0 0 1.313em 1.655em}ol ol,ol ul,ul ol,ul ul{margin-bottom:0}button,input,label,select,textarea{font-size:100%;line-height:1.7}button,input,select,textarea{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif}.uneditable-input,input[type=color],input[type=date],input[type=datetime-local],input[type=datetime],input[type=email],input[type=month],input[type=number],input[type=password],input[type=search],input[type=tel],input[type=text],input[type=time],input[type=url],input[type=week],select,textarea{display:inline-block;height:2.65em;margin-bottom:9px;border:1px solid #ddd;padding:0 .65em;font-size:13px;line-height:normal;color:#555;background-color:#fff;border-radius:4px;box-shadow:inset 0 1px 1px rgba(0,0,0,.075)}input[type=file],select{height:2.65em;padding-top:.5em;padding-bottom:.5em}select{width:auto}table{width:100%;margin-bottom:1.313em;border-spacing:0;background-color:transparent}table td,table th{padding:.5em .625em;line-height:1.3;text-align:left;vertical-align:middle}table td{line-height:1.4}table{border-collapse:collapse}table td,table th{border-top:1px solid #ddd}.button,.x-btn,[type=submit]{display:inline-block;position:relative;border:1px solid #ac1100;border-radius:0;padding:.563em 1.125em .813em;cursor:pointer;font-size:16px;font-weight:inherit;line-height:1.3;text-align:center;vertical-align:middle;color:#fff;background-color:#ff2a13;transition:all .15s linear}.fade{opacity:0;-webkit-transition:opacity .3s ease;transition:opacity .3s ease}.x-container{margin:0 auto}.x-container:after,.x-container:before{content:" ";display:table}.x-container:after{clear:both}.x-container.max{max-width:1200px}.x-container.width{width:88%}[class*=x-icon-],[data-x-icon]{display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:400;text-decoration:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[class*=x-icon-]:before,[data-x-icon]:before{content:attr(data-x-icon);line-height:1}.x-img{margin-bottom:1.313em}.x-column{position:relative;z-index:1;float:left;margin-right:4%}.x-column.x-1-1{width:100%}.x-column.x-1-2{width:48%}.x-column.x-1-3{width:30.66666%}.x-column.x-2-3{width:65.33332%}.x-column.x-1-4{width:22%}.x-column.x-3-4{width:74%}.x-column.x-1-5{width:16.8%}.x-column.x-2-5{width:37.6%}.x-column.x-3-5{width:58.4%}.x-column.x-4-5{width:79.2%}.x-column.x-1-6{width:13.33332%}.x-column.x-5-6{width:82.66666%}.x-column.last,.x-column:last-of-type{margin-right:0}@media (max-width:480px){.x-column.x-xs{float:none;width:100%;margin-right:0}}@media (max-width:767px){.x-column.x-sm{float:none;width:100%;margin-right:0}}@media (max-width:979px){.x-column.x-md{float:none;width:100%;margin-right:0}}.x-column.last,.x-column:last-of-type{margin-right:0}@media (max-width:767px){.x-column.x-sm{float:none;width:100%;margin-right:0}}.x-content-band{margin:0 0 1.313em;padding:40px 0}.x-content-band{margin:0 0 1.313em;padding:40px 0}.x-content-band:after,.x-content-band:before{content:" ";display:table}.x-content-band:after{clear:both}.x-content-band.vc .wpb_content_element,.x-content-band.vc .wpb_row{margin-bottom:0}.x-content-band .x-container{position:relative}.x-main{position:relative}.hentry{margin-top:4em}.hentry:first-child{margin-top:0}.entry-content{margin-top:1.25em}.entry-content:after,.entry-content:before{content:" ";display:table}.entry-content:after{clear:both}.entry-content embed,.entry-content iframe,.entry-content object{width:100%;max-width:100%}[class*=page-template-template-blank] .entry-content{margin-top:0}.page-template-template-layout-full-width-php .x-main,[class*=page-template-template-blank] .x-main{float:none;display:block;width:auto}.right{float:right}.left{float:left}.man,.mtn,.mvn{margin-top:0!important}.man,.mhn,.mrn{margin-right:0!important}.man,.mbn,.mvn{margin-bottom:0!important}.man,.mhn,.mln{margin-left:0!important}.x-breadcrumb-wrap{margin:0;border-bottom:1px solid rgba(0,0,0,.1);padding:1.05em 0;font-size:10px;font-weight:400;letter-spacing:1px;line-height:1.4;text-shadow:0 1px 0 rgba(255,255,255,.55);background-color:rgba(0,0,0,.0225);box-shadow:0 1px 0 0 rgba(255,255,255,.715)}.x-breadcrumb-wrap a{color:#bababa}.x-breadcrumb-wrap a:hover{color:#ff2a13}.x-breadcrumbs{float:left;width:85%}@media (max-width:767px){.x-breadcrumbs{float:none;width:100%;text-align:center}}.x-breadcrumbs a,.x-breadcrumbs span{display:inline-block}.x-breadcrumbs .delimiter{margin:0 .25em 0 .45em;color:#bababa}.x-breadcrumbs .current{color:#272727}.x-scroll-top{position:fixed;z-index:1031;bottom:10px;width:35px;height:35px;margin-bottom:-75px;border:2px solid #272727;font-size:25px;line-height:27px;text-align:center;color:#272727;border-radius:100%;-webkit-transition:margin-bottom .6s ease,opacity .3s ease;transition:margin-bottom .6s ease,opacity .3s ease}.x-scroll-top.right{right:10px}@font-face {font-family: 'FontAwesome';src: url("https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/fonts/fontawesome/v5.12.0/webfonts/fa-regular-400.eot?v=5.15.2");src: url("https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/fonts/fontawesome/v5.12.0/webfonts/fa-regular-400.eot?#iefix&v=5.15.2") format("embedded-opentype"),url("https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/fonts/fontawesome/v5.12.0/webfonts/fa-regular-400.woff2?v=5.15.2") format("woff2"),url("https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/fonts/fontawesome/v5.12.0/webfonts/fa-regular-400.woff?v=5.15.2") format("woff"),url("https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/fonts/fontawesome/v5.12.0/webfonts/fa-regular-400.ttf?v=5.15.2") format("truetype"),url("https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/fonts/fontawesome/v5.12.0/webfonts/fa-regular-400.svg?v=5.15.2#fontawesomeregular") format("svg");font-weight: normal;font-style: normal}[data-x-icon]:before, [class*="x-icon-"]:before {content: attr(data-x-icon);line-height: 1;}
+.x-main .vc_section.hero.z-down h1{margin-top:1em;}
+h1{font-size: 25px!important;font-weight: 300!important;line-height: 1.2;}
+.hp{display:none!important}
+.grecaptcha-badge{display:none;}
+.clearfix{clear:both;}
+.dealershipSelect{width:100%;}
+.dh_desktop{display:none;}
+.dh_mobile{display:block;}
+.hidden{display:none!important;}
+.hide_xs{display:none;}
+.block{display:block;}
+.fr{float:right;}
+.fl{float:left;}
+.bold{font-weight:bold;}
+.uc{text-transform:uppercase;}
+.tl{text-align:left;}
+.tc{text-align:center;}
+.tr{text-align:right;}
+.m0{margin:0;}
+.ma{margin:auto;}
+.w5,.w10,.w15,.w20,.w25,.w30,.w33,.w35,.w40,.w45,.w50,.w60,.w66,.w70,.w75,.w80,.w85,.w100{width:100%;text-align:center;}
+h1, h2, h3, h4, h5, h6{margin:0;letter-spacing:normal!important;}
+h2{font-size:25px!important;font-weight:300!important;}
+h6{font-size:13.99px!important;font-weight:600!important;}
+.flex-row{display:flex;justify-content:center;align-items:center;flex-direction:row;}
+.text-sm{margin:0;}
+.reveal_section_body_item{cursor:pointer;}
+.x-logobar{border-bottom:none!important;}
+.x-navbar-inner {min-height: 0px!important;}
+.z-down .x-column{z-index:0!important;}
+.justified_nav {display: flex;justify-content:space-between;}
+.dh_desktop nav.justified_nav{font-size:9.5pt;}
+.cta_row_head,.cta_row_subhead{font-weight:400;text-transform:uppercase;}
+.cta_row_head,.text_md{font-size:12.5px;}
+.cta_row_subhead,.text_sm{font-size:10px;}
+.subfooter_cta_duo_wrapper{display:flex;justify-content:center;align-items:center;flex-direction:column;height:400px;}
+.subfooter_cta_duo_link{width:100%;padding: 2em;margin: 0;height: 250px;position:relative;flex:1;display:flex;}
+.subfooter_cta_duo_link:first-child{background: linear-gradient(to top, rgba(55,55,55,0.5), rgba(55,55,55,0.5)),url(/wp-content/themes/dh-x/framework/img/join_our_team.jpg) no-repeat top center;background-size: cover;}
+.subfooter_cta_duo_link:last-child{background: linear-gradient(to top, rgba(55,55,55,0.5), rgba(55,55,55,0.5)),url(/wp-content/themes/dh-x/framework/img/community.jpg) no-repeat top center;background-size: cover;}
+/* subfooter styling for "community" page */
+.subfooter_cta_duo_link_community{width:100%;padding: 2em;margin: 0;height: 250px;position:relative;flex:1;display:flex;}
+.subfooter_cta_duo_link_community:first-child{background: linear-gradient(to top, rgba(55,55,55,0.5), rgba(55,55,55,0.5)),url(/wp-content/themes/dh-x/framework/img/join_our_team.jpg) no-repeat top center;background-size: cover;}
+.subfooter_cta_duo_link_community:last-child{background: linear-gradient(to top, rgba(55,55,55,0.5), rgba(55,55,55,0.5)),url(/wp-content/themes/dh-x/framework/img/community_page_subfooter.jpg) no-repeat top center;background-size: cover;}
+/* END subfooter styling for "community" page */
+.subfooter_cta_duo{position:static;text-align:left;margin-top:auto;}
+.subfooter_cta_duo h2{color:#fff;}
+.subfooter_cta_duo h5{color:#ffc132;margin-top:0px;}
+.subfooter_cta_duo_company{background: linear-gradient(to top, rgba(55,55,55,0.5), rgba(55,55,55,0.5)),url(/wp-content/themes/dh-x/framework/img/how-can-we-help-you.jpg) no-repeat top center !important;}
+.teal_btn{font-size: 1.5em;color: rgb(255, 255, 255);border-color: rgb(50, 149, 138)!important;background-color:#03a804!important;text-shadow: rgba(0, 0, 0, 0.5) 0px 0.075em 0.075em;outline: none;font-weight: bold; width: 300px;margin: 1em auto 1.5em;padding: 0.5em 1em;font-size: 0.9em;border-radius: 20px;}
+.outline_btn{border-radius: 3px!important;box-shadow:none!important;text-shadow:none!important;outline:none;background: none!important;text-transform: uppercase;font-weight: bold;padding: 14px 37px!important;font-size: 14px!important;}
+input.store_color_bg{border:none;box-shadow:none;}
+input.store_color_bg:hover{border:none;box-shadow:none;}
+.hero_select{height:40px;background: none;color: #fff;border: 2px solid #fff;width: 70%;-webkit-appearance: none;-moz-appearance: none;appearance: none;-webkit-border-radius: 0;-moz-border-radius: 0;border-radius: 25px;outline: none;background-image: linear-gradient(45deg, transparent 50%, #fff 50%), linear-gradient(135deg, #fff 50%, transparent 50%);background-position: calc(100% - 20px) calc(1em + 2px), calc(100% - 15px) calc(1em + 2px), 100% 0;background-size: 5px 5px, 5px 5px, 2.5em 2.5em;background-repeat: no-repeat;}
+.hamburger:hover .hamburger_content {display: block;}
+.hamburger_content {display: none;position: absolute;background-color: #fff;width: 100%;max-width:1200px;left: 0;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 3;}
+.hamburger_content>a {display:block;text-align:center;font-size:2em;}
+.cf7_select{height:40px;}
+.announcement {
+    background-color: #ffc132;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+  }
+/* Navbar container */
+nav {overflow: hidden;}
+/* Links inside the navbar */
+nav a {float: left;text-align: center;padding: 14px 16px;text-decoration: none;vertical-align:top;}
+nav a:link, nav a:active, nav a:hover, nav a:visited,.toyota_red_bg a:link,.toyota_red_bg a:active,.toyota_red_bg a:hover,.toyota_red_bg a:visited{color: white;}
+nav a:nth-last-child{text-align:right;}
+/* The dropdown container */
+.dropdown {float: left;overflow: hidden;transition-duration: 2s, 4s;}
+/* Dropdown button */
+.dropdown .dropbtn {border: none;outline: none;color: white;background-color: inherit;
+  font: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */}
+/* Add a red background color to navbar links on hover */
+.dh_desktop .dropdown .dropbtn{padding: 1.2em 1em;}
+.dh_mobile .dropdown .dropbtn{padding: 14px 16px;}
+.navbar a:hover, .dropdown:hover .dropbtn {}
+/* Dropdown content (hidden by default) */
+.dropdown-content {padding-top:0px;display: none;position: absolute;background-color: #fff;width: 100%;max-width:1200px;left: 0;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 2;}
+.dropdown-content.pt {padding-top:53px;}
+.mm_container>.flex-row>div:first-child{width:70px;}
+.mm_border_container{margin-top: 0em;}
+.mm_border_container,.mm_container{height:200px;}
+.mm_container{margin-top: 0em;}
+.mm_border_container>a{padding:0;}
+.mm_anchor{width:100%;height:53px;position:absolute;top:0;right:0;left:0;margin:auto;display:flex;justify-content:center;align-items:center;text-transform:uppercase;box-shadow: inset 0 7px 9px -7px rgba(0,0,0,0.7)}
+.mm_anchor embed{margin-left:1em;width:25px;filter:invert(100%);}
+/* Mega Menu header, if needed */
+.dropdown-content .header {background: red;padding: 16px;color: white;}
+/*Mobile Nav Bar*/
+.sidebar{position:fixed;width:100%;top:70px;max-height:85vh;background:#fff;left:-120%;transition:.4s;overflow:scroll;z-index:99999;box-shadow: 0px 5px 10px #666;}
+.sidebar.active{left:0;}
+.sidebar ul{margin:0;padding:0;}
+.sidebar ul li{list-style:none;font-size:20px;padding:15px 24px;border-bottom:2px solid #999;width:100%;}
+.sidebar ul li:last-child{border-bottom:none;}
+.sidebar ul li.active{border-left: 5px solid #9a9a9a;font-weight:bold;}
+.sidebar ul li a{width:100%;display: inline-block;}
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;height:200px;}
+.dropdown:hover .dropdown-content.pt {height:253px;}
+/* Create three equal columns that floats next to each other */
+.column {float: left;padding: 10px;height: 200px;}
+.column:last-child{padding:0px;}
+/* Style links inside the columns */
+.column a {float: none;color: black;text-decoration: none;text-align: left;}
+/* Clear floats after the columns */
+.row:after {content: "";display: table;clear: both;}
+/*buttons*/
+.hero_round_btn{font-weight:bold!important;margin:0 0 0.5em 1.3em!important;padding:0!important;height:40px!important;width:40px!important;background:#fff!important;border:none!important;border-radius:50%!important;text-shadow:none!important;box-shadow:none!important;}
+/*footer*/
+.menu-footer{float:left;width:50%;}
+.menu-footer:nth-child(2){text-align:right;}
+.socialIcons{width:1.5em;}
+.footer_break{width:100%;float:right;text-align:center;color:#a2a2a2;padding:1em;}
+.x-colophon{background:#333!important;}
+.x-colophon-content{font-size:25px;color:#d2d2d2;padding:4em 0;}
+.clip_bottom {
+    clip-path: polygon(0 0, 100% 0, 100% 97%, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 97%, 0 100%);
+}
+.mm_middle{padding-top:3em;}
+.custom_footer_wrapper{max-width:1200px;width:88%;margin:auto;}
+/*Blog Styles */
+.more-link {margin: 1em 0;border: 1px solid;padding: 10px 20px;border-radius: 60px;text-transform: uppercase;}
+.recent-posts .recent-post:nth-child(1) a.more-link {margin-left: 2em;padding-left: 20px;}
+.brandImg>img{max-height:427px;}
+/*Navigation styles*/
+.nav_text{line-height:20px;}
+.dh_menu_item_ver2,.nav_text{font-size:9.5pt;}
+@media(min-width:1000px) and (max-width:1087px){.dh_menu_item_ver2,.nav_text{font-size:7.5pt;}}
+@media(min-width:1088px) and (max-width:1175px){.dh_menu_item_ver2,.nav_text{font-size:8.2pt;}}
+@media(min-width:1176px) and (max-width:1220px){.dh_menu_item_ver2,.nav_text{font-size:9.4pt;}}
+
+@media(min-width:600px){
+  .hide_xs{display:inline-block;}
+}
+/*theme mobile breakpoint*/
+@media(min-width:767px){
+  h1,h2 {font-size: 34px!important;font-weight: 300!important;}
+  .w5,.w10,.w15,.w20,.w25,.w30,.w33,.w40,.w45,.w50,.w60,.w66,.w70,.w75,.w80,.w85,.w90,.w100{text-align:inherit;}
+  .w5{width:5%!important;}
+  .w10{width:10%!important;}
+  .w15{width:15%!important;}
+  .w20{width:20%!important;}
+  .w25{width:25%!important;}
+  .w30{width:30%!important;}
+  .w33{width:33.33%!important;}
+  .w35{width:35%!important;}
+  .w40{width:40%!important;}
+  .w45{width:45%!important;}
+  .w50{width:50%!important;}
+  .w60{width:60%!important;}
+  .w66{width:66.66%!important;}
+  .w70{width:70%!important;}
+  .w75{width:75%!important;}
+  .w80{width:80%!important;}
+  .w85{width:85%!important;}
+  .w95{width:95%!important;}
+  .w100{width:100%!important;}
+  h2{font-size:34px!important;font-weight:300!important;}
+  .menu-footer{width:15%;}
+  .menu-footer:nth-child(2){text-align:left;}
+  .footer_break{width:70%;text-align:right;padding:0 1em 1em;}
+  div.dropdown-content>div.row>div:first-child{padding: 1em 1.5em 0 1.5em;}
+  div.dropdown-content>div.row>div:nth-child(2){padding: 3em 1.5em 0 1.5em;}
+}
+/*DH custom mobile breakpoint*/
+@media(min-width:1000px){
+  .dh_desktop{display:block;}
+  .dh_mobile{display:none!important;}
+  .bm-hero>.bm-hero-inr>.bm-image-section{min-height:352px;}
+  .x-navbar-wrap{margin-top:1.5em;}
+  .x-breadcrumb-wrap{padding:0!important;}
+  .x-breadcrumb{padding:0.5em 0 0.5em 250px;}
+  .dropdown-content{width:88%;left: 6%;}
+  /*.cta_bottom_pair{left:5em;width:auto;text-align:left;}*/
+  .subfooter_cta_duo_wrapper{flex-direction:row;height:auto;}
+  .subfooter_cta_duo_link{padding: 0;}
+  .subfooter_cta_duo{position:absolute;bottom:2em;left:5em;}
+  .clip_bottom {
+    clip-path: polygon(0 0, 100% 0, 100% 84%, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 84%, 0 100%);
+}
+}
+@media(min-width:1200px){
+  .cta_row_head,.text-md{font-size:17.5px;}
+  .cta_row_subhead,.text-sm{font-size:12px;}
+  .mm_border_container{margin-top: 0em;}
+  .mm_container{margin-top: 1.5em;}
+  .mm_middle{padding-top:1.5em;}
+  .custom_footer_wrapper{width:88%;padding:0;}
+  h6{font-size:17.6px!important;font-weight:600!important;}
+  div.dropdown-content>div.row>div:first-child{padding: 0 1.5em;}
+  div.dropdown-content>div.row>div:nth-child(2){padding: 0 1.5em;}
+}
+@media print{
+  a:after{content:'';}
+  a[href]:after{content:none!important;}
+}
+/*Navigation styles*/
+@media(min-width:1000px) and (max-width:1087px){.dh_desktop nav.justified_nav{font-size:7.5pt;}}
+@media(min-width:1088px) and (max-width:1175px){.dh_desktop nav.justified_nav{font-size:8.2pt;}}
+@media(min-width:1176px) and (max-width:1220px){.dh_desktop nav.justified_nav{font-size:9.4pt;}}
+/* Google Optimize Implimentations */
+.bm-call{display: none;padding-right: 10px;}
+#bm-wrapper a img:nth-child(2){display: none;}
+#bm-wrapper a img{width: 100%;max-width: 225px;}
+.bm-call a span{color: #368ce1!important;text-decoration: underline;font-weight: 600;}
+.sticky {transition: 0.7s ease-in-out;position: fixed;top: 0;width: 100%;background: white;z-index: 10000;}
+.announcement {position: relative;}
+.buyFromHome{display:none;}
+@media only screen and (max-width: 280px) {.bm-call{font-size: 10pt;margin-left: 10px;}}
+@media only screen and (min-width:300px){.bm-call{font-size: 13pt;margin-left: 10px;}}
+</style>
+<style>
+.x-breadcrumbs i{color:#999;}
+.x-breadcrumb-wrap{border-bottom:none!important;}
+.x-breadcrumb-wrap,body{background-color:#fff!important;}
+
+</style>
+<script>
+function includes(container, value){
+  var returnValue = false;
+  var pos = container.indexOf(value);
+  if (pos >= 0) {
+    returnValue = true;
+  }
+  return returnValue;
+}
+var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+var phoneNumberPattern = /^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$/;
+function contactForm(stockNum) {
+    stockNum = stockNum || "";
+    var currentURL = window.location.href;
+    markUp = "";
+    markUp += "<form class='srpForm' onsubmit='return submissionCheck();' action='/contact-confirmation/?contact-type=vdp&contact-source=head' method='post'>";
+    markUp += "<input class='hidden' type='text' name='stock_number' value='"+stockNum+"'>";
+    markUp += "<input class='hp' id='firstname' type='text' name='firstname' placeholder='First Name' value=''>";
+    markUp += "<input class='hp' id='lastname' type='text' name='lastname' placeholder='Last Name' value=''>";
+    markUp += "<input class='w50' id='_3m4nt5r1f' type='text' name='_3m4nt5r1f' placeholder='First Name'>";
+    markUp += "<input class='w50' id='_3m4nt541' type='text' name='_3m4nt541' placeholder='Last Name'>";
+    markUp += "<input class='w50' id='_1i4m3' type='email' name='_1i4m3' placeholder='Email'>";
+    markUp += "<input class='w50' id='_3n0hp' type='tel' pattern='^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$' name='_3n0hp' placeholder='Phone'>";
+    if ((includes(currentURL,"dickhannah.com") || includes(currentURL,"dickhannahstg.wpengine.com") || includes(currentURL,"dickhannahdirect.com")) && stockNum == "") {
+    markUp += "<select class='dealershipSelect' name='dealership_id'>";
+    markUp += "<option value=''>Please select a dealership</option>";
+    markUp += "<option value='2'>Dick Hannah's Acura of Portland</option>";
+    markUp += "<option value='11'>Dick Hannah Chevrolet</option>";
+    markUp += "<option value='3'>Dick Hannah Chrysler/Jeep/Dodge</option>";
+    markUp += "<option value='15'>Dick Hannah Ford</option>";
+    markUp += "<option value='5'>Dick Hannah Honda</option>";
+    markUp += "<option value='8'>Dick Hannah Kia</option>";
+    markUp += "<option value='23'>Dick Hannah Nissan</option>";
+    markUp += "<option value='21'>Dick Hannah Ram</option>";
+    markUp += "<option value='9'>Dick Hannah Subaru</option>";
+    markUp += "<option value='10'>Dick Hannah Toyota</option>";
+    markUp += "<option value='12'>Dick Hannah Volkswagen</option>";
+    markUp += "<option value='13'>VW and Hyundai of Portland</option>";
+    markUp += "<option value='18'>Vancouver Truck Center</option>";
+    markUp += "<option value='16'>Dick Says Yes</option>";
+    markUp += "</select>";
+    }
+    if ((includes(currentURL,"dickhannahautodetail.com")) && stockNum == "") {
+    markUp += "<input class='hidden' type='text' name='submission_type' value='detail'>";
+    markUp += "<input class='w50' id='vehicleType' type='text' name='vehicleType' placeholder='Type of Vehicle'>";
+    markUp += "<select class='w50' name='detailService'>";
+    markUp += "<option value='none selected'>Preferred Service</option>";
+    markUp += "<option value='Paint Protection Film (XPEL)'>Paint Protection Film (XPEL)</option>";
+    markUp += "<option value='Window Tint'>Window Tint</option>";
+    markUp += "<option value='Full Detail Sedan'>Full Detail Sedan</option>";
+    markUp += "<option value='Interior Detail Sedan'>Interior Detail Sedan</option>";
+    markUp += "<option value='Exterior Detail Sedan'>Exterior Detail Sedan</option>";
+    markUp += "<option value='Full Detail SUV/Truck'>Full Detail SUV/Truck</option>";
+    markUp += "<option value='Interior Detail SUV/Truck'>Interior Detail SUV/Truck</option>";
+    markUp += "<option value='Exterior Detail SUV/Truck'>Exterior Detail SUV/Truck</option>";
+    markUp += "<option value='Headlight Restoration'>Headlight Restoration</option>";
+    markUp += "<option value='Other'>Other</option>";
+    markUp += "</select>";
+    markUp += "<input class='w50' id='preferredTime' type='text' name='preferredTime' placeholder='Preferred time of service'>";
+    markUp += "<select class='w50' name='preferredDayofWeek'>";
+    markUp += "<option value='none selected'>Preferred day of week</option>";
+    markUp += "<option value='Monday'>Monday</option>";
+    markUp += "<option value='Tuesday'>Tuesday</option>";
+    markUp += "<option value='Wednesday'>Wednesday</option>";
+    markUp += "<option value='Thursday'>Thursday</option>";
+    markUp += "<option value='Friday'>Friday</option>";
+    markUp += "</select>";
+    }
+    if (includes(currentURL,"dickhannahinsurance.com")) {
+    markUp += "<input class='hidden' type='text' name='submission_type' value='insurance'>";
+    markUp += "<input class='w50' id='_p1z' type='text' name='_p1z' placeholder='Zip'>";
+    markUp += "<div class='cfInsuraceWrapper' style='padding:1em 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));text-align: center;'>";
+    markUp += "<div><label for='Auto'>Auto</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='Auto'></div>";
+    markUp += "<div><label for='Motorcycle'>Motorcycle</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='Motorcycle'></div>";
+    markUp += "<div><label for='RV'>RV</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='RV'></div>";
+    markUp += "<div><label for='ATV'>ATV</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='ATV'></div>";
+    markUp += "<div><label for='Boat'>Boat</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='Boat'></div>";
+    markUp += "<div><label for='Homeowners'>Homeowners</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='Homeowners'></div>";
+    markUp += "<div><label for='Renters'>Renters</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='Renters'></div>";
+    markUp += "<div><label for='Condo'>Condo</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='Condo'></div>";
+    markUp += "<div><label for='Landlord'>Landlord</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='Landlord'></div>";
+    markUp += "<div><label for='Flood'>Flood</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='Flood'></div>";
+    markUp += "<div><label for='Earthquake'>Earthquake</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='Earthquake'></div>";
+    markUp += "<div><label for='LifeInsurance'>Life Insurance</label><br>";
+    markUp += "<input type='checkbox' name='insurance[]' value='LifeInsurance'></div>";
+    markUp += "</div>";
+    }
+    if (includes(currentURL,"dickhannah.com")||includes(currentURL,"dickhannahacuraofportland.com")||includes(currentURL,"dickhannahdodge.com")||
+    includes(currentURL,"dickhannahjeep.com")||includes(currentURL,"dickhannahkia.com")||includes(currentURL,"dickhannahhonda.com")||
+    includes(currentURL,"dickhannahchrysler.com")||includes(currentURL,"dickhannahram.com")||includes(currentURL,"dickhannahsubaru.com")||
+    includes(currentURL,"vwofportland.com")||includes(currentURL,"dickhannahvolkswagen.com")||includes(currentURL,"hyundaiofportland.com")||
+    includes(currentURL,"dickhannahnissan.com")||includes(currentURL,"dicksaysyes.com")) {
+    markUp += "<select class='w50' name='department'>";
+    markUp += "<option value='Sales' selected>Sales</option>";
+    markUp += "<option value='Service'>Service</option>";
+    markUp += "</select>";
+    }
+    if (includes(currentURL,"dicksaysyes.com")) {
+    markUp += "<input class='w50' id='zipcode' type='text' name='zipcode' placeholder='Zip'>";
+    }
+    markUp += "<textarea class='w100' name='comments' placeholder='Comments/Questions'></textarea>";
+    markUp += "<div class='g-recaptcha' data-sitekey='6LeWTaMUAAAAAPve2_5E6OPniqK55a7wRxWwdHtZ'></div>";
+    markUp += "<input class='srpFormSubmit store_color_bg' type='submit' name='submit' value='Submit'>"
+    markUp += "</form>";
+
+    return markUp;
+}
+function submissionCheck() {
+  var ok=true;
+    if (jQuery('#_3m4nt5r1f').val()=='') {
+        ok=false;
+    }
+    if (jQuery('#_3m4nt541').val()=='') {
+        ok=false;
+    }
+    var email_val = jQuery('#_1i4m3').val();
+    if( ! emailPattern.test(email_val) ){
+        ok=false;
+    }
+  return ok;
+}
+</script>
+ <!-- Begin TVSquared Tracking Code -->
+<script async type="text/javascript">
+var _tvq = window._tvq = window._tvq || [];
+(function() {
+var u = (("https:" == document.location.protocol) ? "https://collector-4361.tvsquared.com/" : "http://collector-4361.tvsquared.com/");
+_tvq.push(['setSiteId', "TV-54633681-1"]);
+_tvq.push(['setTrackerUrl', u + 'tv2track.php']);
+_tvq.push([function() {
+this.deleteCustomVariable(5, 'page')
+}]);
+_tvq.push(['trackPageView']);
+var d = document,
+g = d.createElement('script'),
+s = d.getElementsByTagName('script')[0];
+g.type = 'text/javascript';
+g.defer = true;
+g.async = true;
+g.src = u + 'tv2track.js';
+s.parentNode.insertBefore(g, s);
+})();
+</script>
+<!-- end TVSquared Tracking Code -->
+<!-- DHSUBARU Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '230616254119856', {
+em: 'insert_email_variable'
+});
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=230616254119856&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+	<script defer src="https://content-container.edmunds.com/19013.js" type="text/javascript"></script>
+
+  <script async src='https://tag.simpli.fi/sifitag/adcfaaa0-a648-0137-ea38-06a9ed4ca31b'></script> 
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Dick Hannah Subaru Auto Blog | Learn About New Subaru Features</title>
+<link rel="pingback" href="https://www.dickhannahsubaru.com/xmlrpc.php"><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v17.3 (Yoast SEO v19.2) - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="What&#039;s happening at Dick Hannah Subaru? Stay tuned for the latest in new Subaru models, news &amp; comparisons for all things Subaru." />
+	<link rel="canonical" href="https://www.dickhannahsubaru.com/company/auto-blog/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Dick Hannah Subaru Auto Blog" />
+	<meta property="og:description" content="What&#039;s happening at Dick Hannah Subaru? Stay tuned for the latest in new Subaru models, news &amp; comparisons for all things Subaru." />
+	<meta property="og:url" content="https://www.dickhannahsubaru.com/company/auto-blog/" />
+	<meta property="og:site_name" content="Dick Hannah Subaru | Portland Subaru Dealer in Vancouver, WA" />
+	<meta property="article:publisher" content="https://www.facebook.com/HannahSubaru" />
+	<meta property="og:image" content="https://www.dickhannahsubaru.com/wp-content/themes/hulk/images/store/subaru-store.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@HannahSubaru" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.dickhannahsubaru.com/#website","url":"https://www.dickhannahsubaru.com/","name":"Dick Hannah Subaru | Portland Subaru Dealer in Vancouver, WA","description":"Dick Hannah Subaru - Subaru Dealership in Vancouver, Washington","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dickhannahsubaru.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.dickhannahsubaru.com/company/auto-blog/#webpage","url":"https://www.dickhannahsubaru.com/company/auto-blog/","name":"Dick Hannah Subaru Auto Blog | Learn About New Subaru Features","isPartOf":{"@id":"https://www.dickhannahsubaru.com/#website"},"datePublished":"2019-04-25T15:56:01+00:00","dateModified":"2019-04-25T15:56:01+00:00","description":"What's happening at Dick Hannah Subaru? Stay tuned for the latest in new Subaru models, news & comparisons for all things Subaru.","breadcrumb":{"@id":"https://www.dickhannahsubaru.com/company/auto-blog/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.dickhannahsubaru.com/company/auto-blog/"]}]},{"@type":"BreadcrumbList","@id":"https://www.dickhannahsubaru.com/company/auto-blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.dickhannahsubaru.com/"},{"@type":"ListItem","position":2,"name":"Company","item":"https://www.dickhannahsubaru.com/company/"},{"@type":"ListItem","position":3,"name":"Dick Hannah Subaru Auto Blog"}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Dick Hannah Subaru | Portland Subaru Dealer in Vancouver, WA &raquo; Feed" href="https://www.dickhannahsubaru.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dick Hannah Subaru | Portland Subaru Dealer in Vancouver, WA &raquo; Comments Feed" href="https://www.dickhannahsubaru.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dickhannahsubaru.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='cornerstone-shortcodes-css'  href='https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/css/site/style.6f62d0f.css' type='text/css' media='all' />
+<link rel='stylesheet' id='x-stack-css'  href='https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/css/dist/site/stacks/integrity-light.css?ver=6.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='archive-page-style-css'  href='https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/css/dist/admin/archive-page-style.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='single-post-styles-css'  href='https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/css/dist/admin/single-post-styles.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-single-post-styles-css'  href='https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/css/dist/admin/custom-single-post-styles.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='Slick-css'  href='https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='SlickTheme-css'  href='https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cs-css'  href='https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/css/site/plugin.6f62d0f.css' type='text/css' media='all' />
+<style id='cs-inline-css' type='text/css'>
+ @font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:900;font-display:block;src:url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-solid-900.woff2') format('woff2'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-solid-900.woff') format('woff'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-solid-900.ttf') format('truetype');}[data-x-fa-pro-icon]{font-family:"FontAwesomePro" !important;}[data-x-fa-pro-icon]:before{content:attr(data-x-fa-pro-icon);}[data-x-icon],[data-x-icon-o],[data-x-icon-l],[data-x-icon-s],[data-x-icon-b],[data-x-fa-pro-icon],[class*="cs-fa-"]{display:inline-block;font-style:normal;font-weight:400;text-decoration:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}[data-x-icon].left,[data-x-icon-o].left,[data-x-icon-l].left,[data-x-icon-s].left,[data-x-icon-b].left,[data-x-fa-pro-icon].left,[class*="cs-fa-"].left{margin-right:0.5em;}[data-x-icon].right,[data-x-icon-o].right,[data-x-icon-l].right,[data-x-icon-s].right,[data-x-icon-b].right,[data-x-fa-pro-icon].right,[class*="cs-fa-"].right{margin-left:0.5em;}[data-x-icon]:before,[data-x-icon-o]:before,[data-x-icon-l]:before,[data-x-icon-s]:before,[data-x-icon-b]:before,[data-x-fa-pro-icon]:before,[class*="cs-fa-"]:before{line-height:1;}@font-face{font-family:'FontAwesome';font-style:normal;font-weight:900;font-display:block;src:url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-solid-900.woff2') format('woff2'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-solid-900.woff') format('woff'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-solid-900.ttf') format('truetype');}[data-x-icon],[data-x-icon-s],[data-x-icon][class*="cs-fa-"]{font-family:"FontAwesome" !important;font-weight:900;}[data-x-icon]:before,[data-x-icon][class*="cs-fa-"]:before{content:attr(data-x-icon);}[data-x-icon-s]:before{content:attr(data-x-icon-s);}@font-face{font-family:'FontAwesomeRegular';font-style:normal;font-weight:400;font-display:block;src:url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-regular-400.woff2') format('woff2'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-regular-400.woff') format('woff'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-regular-400.ttf') format('truetype');}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:400;font-display:block;src:url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-regular-400.woff2') format('woff2'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-regular-400.woff') format('woff'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-regular-400.ttf') format('truetype');}[data-x-icon-o]{font-family:"FontAwesomeRegular" !important;}[data-x-icon-o]:before{content:attr(data-x-icon-o);}@font-face{font-family:'FontAwesomeLight';font-style:normal;font-weight:300;font-display:block;src:url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-light-300.woff2') format('woff2'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-light-300.woff') format('woff'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-light-300.ttf') format('truetype');}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:300;font-display:block;src:url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-light-300.woff2') format('woff2'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-light-300.woff') format('woff'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-light-300.ttf') format('truetype');}[data-x-icon-l]{font-family:"FontAwesomeLight" !important;font-weight:300;}[data-x-icon-l]:before{content:attr(data-x-icon-l);}@font-face{font-family:'FontAwesomeBrands';font-style:normal;font-weight:normal;font-display:block;src:url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-brands-400.woff2') format('woff2'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-brands-400.woff') format('woff'),url('https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/fonts/fa-brands-400.ttf') format('truetype');}[data-x-icon-b]{font-family:"FontAwesomeBrands" !important;}[data-x-icon-b]:before{content:attr(data-x-icon-b);}
+</style>
+<!--n2css--><script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/js/dist/site/x-head.min.js?ver=6.0.4' id='x-site-head-js'></script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-includes/js/hoverIntent.min.js?ver=1.10.1' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/legacy/cranium/js/dist/site/x-head.min.js?ver=6.0.4' id='x-cranium-migration-head-js'></script>
+<link rel="https://api.w.org/" href="https://www.dickhannahsubaru.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.dickhannahsubaru.com/wp-json/wp/v2/pages/4070" /><link rel='shortlink' href='https://www.dickhannahsubaru.com/?p=4070' />
+<link rel="alternate" type="application/json+oembed" href="https://www.dickhannahsubaru.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dickhannahsubaru.com%2Fcompany%2Fauto-blog%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.dickhannahsubaru.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dickhannahsubaru.com%2Fcompany%2Fauto-blog%2F&#038;format=xml" />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="x-generated-css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-breadcrumb-wrap a:hover,.widget ul li a:hover,.widget ol li a:hover,.widget.widget_text ul li a,.widget.widget_text ol li a,.widget_nav_menu .current-menu-item > a,.x-accordion-heading .x-accordion-toggle:hover,.x-comment-author a:hover,.x-comment-time:hover,.x-recent-posts a:hover .h-recent-posts{color:;}a:hover,.widget.widget_text ul li a:hover,.widget.widget_text ol li a:hover,.x-twitter-widget ul li a:hover{color:;}.rev_slider_wrapper,a.x-img-thumbnail:hover,.x-slider-container.below,.page-template-template-blank-3-php .x-slider-container.above,.page-template-template-blank-6-php .x-slider-container.above{border-color:;}.entry-thumb:before,.x-pagination span.current,.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.mejs-time-current,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.h-comments-title small,.x-entry-share .x-share:hover,.x-highlight,.x-recent-posts .x-recent-posts-img:after{background-color:;}.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover{box-shadow:inset 0 3px 0 0;}.x-main{width:100%;}.x-sidebar{width:25.536945%;}.x-comment-author,.x-comment-time,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar caption,.widget.widget_rss li .rsswidget{font-family:"Lato",sans-serif;font-weight:700;}.p-landmark-sub,.p-meta,input,button,select,textarea{font-family:"Lato",sans-serif;}.widget ul li a,.widget ol li a,.x-comment-time{color:#999999;}.widget_text ol li a,.widget_text ul li a{color:;}.widget_text ol li a:hover,.widget_text ul li a:hover{color:;}.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar th,.p-landmark-sub strong,.widget_tag_cloud .tagcloud a:hover,.widget_tag_cloud .tagcloud a:active,.entry-footer a:hover,.entry-footer a:active,.x-breadcrumbs .current,.x-comment-author,.x-comment-author a{color:;}.widget_calendar #wp-calendar th{border-color:;}.h-feature-headline span i{background-color:;}@media (max-width:979px){}html{font-size:14px;}@media (min-width:480px){html{font-size:14px;}}@media (min-width:767px){html{font-size:14px;}}@media (min-width:979px){html{font-size:14px;}}@media (min-width:1200px){html{font-size:14px;}}body{font-style:normal;font-weight:400;color:#999999;background-color:#f3f3f3;}.w-b{font-weight:400 !important;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Lato",sans-serif;font-style:normal;font-weight:700;}h1,.h1{letter-spacing:-0.035em;}h2,.h2{letter-spacing:-0.035em;}h3,.h3{letter-spacing:-0.035em;}h4,.h4{letter-spacing:-0.035em;}h5,.h5{letter-spacing:-0.035em;}h6,.h6{letter-spacing:-0.035em;}.w-h{font-weight:700 !important;}.x-container.width{width:88%;}.x-container.max{max-width:1200px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:1rem;}body,input,button,select,textarea{font-family:"Lato",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:;}.cfc-h-tx{color:!important;}.cfc-h-bd{border-color:!important;}.cfc-h-bg{background-color:!important;}.cfc-b-tx{color:#999999 !important;}.cfc-b-bd{border-color:#999999 !important;}.cfc-b-bg{background-color:#999999 !important;}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:#ac1100;background-color:#ff2a13;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);border-radius:0.25em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:#600900;background-color:#ef2201;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}.x-topbar .p-info a:hover,.x-widgetbar .widget ul li a:hover{color:;}.x-topbar .p-info,.x-topbar .p-info a,.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap a,.x-breadcrumbs .delimiter{color:#999999;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a{color:#272727;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a{box-shadow:inset 0 4px 0 0;}.x-navbar .desktop .x-nav > li > a{height:90px;padding-top:37px;}.x-navbar .desktop .x-nav > li ul{top:75px;;}@media (max-width:979px){}.x-navbar-inner{min-height:90px;}.x-brand{margin-top:22px;font-family:"Lato",sans-serif;font-size:42px;font-style:normal;font-weight:700;letter-spacing:-0.035em;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Lato",sans-serif;font-style:normal;font-weight:700;letter-spacing:0.085em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:13px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:20px;padding-right:20px;}.x-navbar .desktop .x-nav > li > a > span{margin-right:-0.085em;}.x-btn-navbar{margin-top:20px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:24px;}@media (max-width:979px){.x-widgetbar{left:0;right:0;}}</style><style> #cs-content .x-accordion,#cs-content .x-alert,#cs-content .x-audio,#cs-content .x-author-box,#cs-content .x-base-margin,#cs-content .x-block-grid,#cs-content .x-card-outer,#cs-content .x-code,#cs-content .x-columnize,#cs-content .x-entry-share,#cs-content div.x-feature-box,#cs-content .x-feature-list,#cs-content .x-flexslider-shortcode-container,#cs-content .x-gap,#cs-content .x-img,#cs-content .x-map,#cs-content .x-promo,#cs-content .x-prompt,#cs-content .x-recent-posts,#cs-content .x-section,#cs-content .x-skill-bar,#cs-content .x-tab-content,#cs-content .x-video{margin-bottom:1.5em;}#cs-content .x-blockquote:not(.x-pullquote),#cs-content .x-callout,#cs-content .x-hr,#cs-content .x-pricing-table{margin-top:1.5em;margin-bottom:1.5em;}@media (max-width:766.98px){#cs-content .x-pullquote.left,#cs-content .x-pullquote.right{margin-top:1.5em;margin-bottom:1.5em;}}@media (max-width:479.98px){#cs-content .x-toc.left,#cs-content .x-toc.right{margin-bottom:1.5em;}}#cs-content .x-container.width{width:88%;}#cs-content .x-container.max{max-width:1200px;}#cs-content .x-accordion-heading .x-accordion-toggle.collapsed,#cs-content .x-nav-tabs > li > a,#cs-content .x-recent-posts .h-recent-posts,#cs-content .x-recent-posts .x-recent-posts-date{color:#272727;}#cs-content .x-accordion-heading .x-accordion-toggle.collapsed:hover,#cs-content .x-accordion-heading .x-accordion-toggle,#cs-content .x-nav-tabs > li > a:hover,#cs-content .x-nav-tabs > .active > a,#cs-content .x-nav-tabs > .active > a:hover,#cs-content .x-recent-posts a:hover .h-recent-posts{color:#ff2a13;}#cs-content a.x-img-thumbnail:hover{border-color:#ff2a13;}#cs-content .x-dropcap,#cs-content .x-highlight,#cs-content .x-pricing-column.featured h2,#cs-content .x-recent-posts .x-recent-posts-img:after{background-color:#ff2a13;}#cs-content .x-btn{color:#ffffff;border-color:#ac1100;background-color:#ff2a13;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);border-radius:0.25em;}#cs-content a.x-btn:hover{color:#ffffff;border-color:#600900;background-color:#ef2201;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}#cs-content .x-btn.x-btn-real,#cs-content .x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}#cs-content .x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}#cs-content .x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}#cs-content .x-btn.x-btn-flat,#cs-content .x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}#cs-content .x-btn.x-btn-transparent,#cs-content .x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}</style><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-533S5V');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager For Subaru Reunion Marketing -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PBFCVSN');</script>
+<!-- End Google Tag Manager -->
+</head>
+<style>
+body {
+  font-family: arial, sans-serif;
+}
+</style>
+<body class="page-template page-template-dh-blog-srp page-template-dh-blog-srp-php page page-id-4070 page-child parent-pageid-3954 wp-embed-responsive x-integrity x-integrity-light x-full-width-layout-active x-content-sidebar-active x-post-meta-disabled wpb-js-composer js-comp-ver-6.10.0 vc_responsive x-navbar-static-active cornerstone-v6_1_4 x-v6_0_4">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-533S5V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) For Subaru Reunion Marketing -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBFCVSN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div id="x-root" class="x-root">
+
+    
+    <div id="top" class="site">
+    
+    
+  
+  <header class="masthead masthead-inline" role="banner">
+    
+      <style>
+  /* Legacy */
+    .subaru_blue,.store_color{color:#004990!important;}
+    .subaru_gray{color:#7e8083!important;}
+    .subaru_light_blue{color:#326da6!important;}
+    .subaru_blue_bg,.store_color_bg{background:#004990!important;color:#fff!important;}
+  /* Current */
+    .x-logobar{border-bottom:none!important;position:relative;height:68px;}
+    .x-logobar-inner{position:absolute;width:100%;z-index:3;box-shadow:0px 2px 3px rgb(66 66 66 / 50%);}
+    .search_input_icons i {position: absolute;color:#ddd;}
+    .search_input_icons {width: 100%;}
+    .icon {padding: 10px;min-width: 40px;}
+    .search_input_field {margin:0!important;width:80%!important;padding: 10px 10px 10px 3em!important;border-radius:20px!important;}
+    #contactUsButton{color:#fff;font-size:0.9em;border-radius:20px;border:none;padding:0.8em 1.8em;}
+    nav{padding-left:239px;}
+    .brand_title{font-size:3em;z-index:2;height: 1.25em;line-height:1.1;width:225px;box-shadow: 5px 0px 5px rgba(125,125,125,0.3);text-align:center;}
+    .head_store_phone{display:block;text-align:right;}
+    .head_store_phone_container{max-height: 60px;overflow: hidden;}
+    .dh_desktop .brand_title{background: #fff;}
+    header{background:#fff;}
+    h6{color:#D90123;}
+    .relative{position:relative;}
+    .absolute{position:absolute;}
+    .dh_blue{color:#00427a!important;}
+    .dh_blue_bg{background:#00427a!important;color:#fff!important;}
+    .dh_menu_item:hover,.dropbtn:hover{background:#326da6!important;}
+    .mm_anchor{background:#004990!important;}
+    nav{padding-left:239px;}
+    .dh_menu_item{padding:1.2em 1em;}
+    .dh_mobile .dh_logo{float:right;}
+    .dh_mobile .brand_title{left:0;}
+    .dh_mobile .brand_title>a{padding: 10% 5px 0;font-size:30px;}
+    .cta_row_head{color:#000;}
+    .justified_nav {margin: 1% 0;align-items:center;display: flex;padding-left: 239px;justify-content: space-between;}
+    .dh_menu_ver2, .dh_menu_ver2>li>ul {list-style: none;}
+    .dh_menu_ver2>li>ul>li>a {font-size: 14px;color:#58595B}
+    .dh_menu_item_ver2 {position: relative;}
+    .dh_menu_item_ver2>button,.dh_menu_item_ver2>a{color:#fff;border:none;}
+    .dh_menu_item_ver2>button{background:none;line-height:1;}
+    .dh_dropdown_ver2 {text-transform:capitalize;min-width:250px;padding: 1em;background:#f3f3f3;color:#fff;display:none;position: absolute;background-color: #fff;left: -3em;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 2;}
+    .cars {width:750px;left:-10em;align-items:center;justify-content:space-between;flex-wrap:wrap;display:flex;}
+    .cars>.car {flex-basis: 33%;list-style: none;}
+    .car>a{display:flex;align-items: center;justify-content: flex-start;}
+    .car>a>img{margin-right:1em;}
+    .dh_menu_item_ver2:hover .dh_dropdown_ver2 {display:block;}
+    .mobile-nav-button{width:33%;display:flex;justify-content:center;align-items:center;border-right:0.5px solid black;}
+    .mobile-nav-button:last-child{border:none;}
+    .green_cta{box-shadow: none;display: inline-block;padding: 10px 15px;border-radius: 20px;border: none;background: rgb(133, 195, 105) !important;color: rgb(255, 255, 255) !important;outline: none;}
+    @media (min-width: 1000px) {
+      .x-breadcrumbs{padding:0.5em 0 0.5em 250px;}
+      .x-navbar-wrap {margin-top: 0!important;}
+    }
+</style>
+<div style="text-align:center;font-size:0.5em;background-color:#000;color:#fff;display:flex;justify-content:center;align-items:center;"><p style="margin:0;">Dick Hannah Subaru 7407 NE Vancouver Plaza Dr. Vancouver, WA</p></div>
+<div class="dh_desktop">
+<div class="x-logobar">
+    <div class="x-logobar-inner">
+      <div class="x-container max width" style="overflow:auto;">
+      <div style="font-family: 'Lato', sans-serif;display:grid;grid-template-columns:1fr 2.5fr 1.3fr 1.1fr 1fr;align-items:center;padding:0.25em 0;">
+        <div>
+        <a href="https://www.dickhannah.com/"><img src="/wp-content/themes/dh-x/framework/img/logos/DHD+70yr_lock-up_440x80.png" alt="Dick Hannah Dealerships" style="max-width:225px;"/></a>
+        </div>
+        <form class="tc" style="margin:0;" action="https://www.dickhannahsubaru.com/search" method="GET">
+          <div class="search_input_icons">
+              <i class="fa fa-search icon"></i><input class="search_input_field tl" id="kw" name="kw" type="text" placeholder="Search">
+          </div>
+        </form>
+        <div class="tr" style="display:grid;grid-template-columns: 4fr 1fr;align-items:center;">
+          <div>
+            <div class="dh_blue nav_text uc block bold">Dick Hannah Subaru</div>
+            <div class="dh_blue nav_text uc block">Vancouver, WA</div>
+          </div>
+          <a href="https://www.dickhannahsubaru.com/hours-and-location/"><i class="fas fa-map-marker-alt store_color" style="font-size:25px;"></i></a>
+        </div>
+        <div class="head_store_phone_container">
+          <div class="head_store_phone nav_text"><span class="dh_blue bold">Sales:</span> <span><a class="" href="tel:360-314-0504">360-314-0504</a></span></div>
+          <div class="head_store_phone nav_text"><span class="dh_blue bold">Service:</span> <span><a class="" href="tel:360-314-0533">360-314-0533</a></span></div>
+                      <div class="head_store_phone nav_text"><span class="dh_blue bold">Parts:</span> <span><a class="" href="tel:360-314-0550">360-314-0550</a></span></div>
+                  </div>
+        <div class="tr nav_text"><button id="contactUsButton" class="bold uc dh_blue_bg" onclick="openModal('Contact Us', contactForm())">Contact us</button></div>
+      </div>
+    </div>
+    </div>
+</div>
+</div>
+<div class="dh_desktop">
+<div class="x-navbar-wrap relative">
+<!-- <div class="announcement">
+  <a style="color:#fff;" href="#" onclick="return false;">Dick Hannah locations will be closed Friday, December 23rd, 2022 for inclement weather.</a>
+</div> -->
+    <div class="x-navbar-inner dh_blue_bg">
+        <div class="x-container max width">
+        <div class="absolute brand_title"><a href="https://www.dickhannahsubaru.com/"><img src="https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/img/logos/subaru_long.png" alt="Dick Hannah Subaru" style="padding: 0 0.5em 0 0.3em;"/></a></div>
+        <ul class="dh_blue_bg justified_nav dh_menu_ver2">
+              <li class="dh_menu_item_ver2"><a href="#" onclick="return false;">NEW <i class="fa fa-caret-down"></i></a>
+                  <ul class="dh_dropdown_ver2">
+                    <li style="text-align: center;margin-bottom:1em;"><a class="green_cta" href="https://www.dickhannahsubaru.com/new/">New Inventory</a></li>
+                    <ul class="cars">
+                    <li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/new/Subaru/?mo=ascent">
+
+       <img loading="lazy" alt="Ascent" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1495/2023-Ascent.webp"/>Ascent</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/new/Subaru/?mo=brz">
+
+       <img loading="lazy" alt="BRZ" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1475/2023-BRZ.png"/>BRZ</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/new/Subaru/?mo=crosstrek">
+
+       <img loading="lazy" alt="Crosstrek" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1544/24-subaru-crosstrek.webp"/>Crosstrek</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/new/Subaru/?mo=forester">
+
+       <img loading="lazy" alt="Forester" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1507/2023-forester.webp"/>Forester</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/new/Subaru/?mo=impreza">
+
+       <img loading="lazy" alt="Impreza" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1547/24-impreza.webp"/>Impreza</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/new/Subaru/?mo=legacy">
+
+       <img loading="lazy" alt="Legacy" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1546/2024-legacy.webp"/>Legacy</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/new/Subaru/?mo=outback">
+
+       <img loading="lazy" alt="Outback" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1545/2024-subaru-outback.webp"/>Outback</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/new/Subaru/?mo=solterra">
+
+       <img loading="lazy" alt="Solterra" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1517/2023-Solterra.webp"/>Solterra</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/new/Subaru/?mo=wrx">
+
+       <img loading="lazy" alt="WRX" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1540/2023-wrx.webp"/>WRX</a></li>                    </ul>
+                    <li style="margin-top: 10px; margin-left: 20px;"><a href="https://www.kbb.com/instant-cash-offer/W/1150141/43A6F9B8-DB6C-48C0-A360-F658B2176E3E/" target="_blank">KBB Instant Cash Offer!</a></li>
+                  </ul>
+              </li><!--stuff-->
+              <li class="dh_menu_item_ver2"><a href="#" onclick="return false;">PREOWNED <i class="fa fa-caret-down"></i></a>
+                  <ul class="dh_dropdown_ver2">
+                    <li><a href="https://www.dickhannahsubaru.com/used/">Preowned Inventory</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/used/?prmax=15000&prmin=10">Priced Under 15k</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/used/?crt=Yes">Certified Preowned Vehicles</a></li>
+                    <li><a href="https://www.kbb.com/instant-cash-offer/W/1150141/43A6F9B8-DB6C-48C0-A360-F658B2176E3E/" target="_blank">KBB Instant Cash Offer!</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/before-you-buy/preowned-promise/">Preowned Promise</a></li>
+                  </ul>
+              </li>
+              <li class="dh_menu_item_ver2"><a href="#" onclick="return false;">SPECIALS <i class="fa fa-caret-down"></i></a>
+                  <ul class="dh_dropdown_ver2">
+                    <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/factory-offers/">Factory Offers & Dealer Specials</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/schedule-service/subaru-service-repair-coupons/">Service Specials</a></li>
+                  </ul>
+              </li>
+              <li class="dh_menu_item_ver2"><a href="#" onclick="return false;">RESEARCH <i class="fa fa-caret-down"></i></a>
+                  <ul class="dh_dropdown_ver2">  
+                    <li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-ascent-2023/">
+
+       <img loading="lazy" alt="Ascent" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1495/2023-Ascent.webp"/>2023 Ascent</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/2023-subaru-brz/">
+
+       <img loading="lazy" alt="BRZ" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1475/2023-BRZ.png"/>2023 BRZ</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/2024-subaru-crosstrek/">
+
+       <img loading="lazy" alt="Crosstrek" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1544/24-subaru-crosstrek.webp"/>2024 Crosstrek</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-forester-2023/">
+
+       <img loading="lazy" alt="Forester" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1507/2023-forester.webp"/>2023 Forester</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-impreza-2024/">
+
+       <img loading="lazy" alt="Impreza" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1547/24-impreza.webp"/>2024 Impreza</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-legacy-2024/">
+
+       <img loading="lazy" alt="Legacy" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1546/2024-legacy.webp"/>2024 Legacy</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-outback-2024/">
+
+       <img loading="lazy" alt="Outback" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1545/2024-subaru-outback.webp"/>2024 Outback</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-solterra-2023/">
+
+       <img loading="lazy" alt="Solterra" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1517/2023-Solterra.webp"/>2023 Solterra</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-wrx-2023/">
+
+       <img loading="lazy" alt="WRX" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1540/2023-wrx.webp"/>2023 WRX</a></li></li>  
+                  </ul>                     
+              </li>
+              <li class="dh_menu_item_ver2"><a href="#" onclick="return false;">SELL, TRADE & FINANCE <i class="fa fa-caret-down"></i></a>
+                  <ul class="dh_dropdown_ver2">
+                    <li><a href="https://www.dickhannahsubaru.com/before-you-buy/">Before You Buy</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/sell-your-car/">Sell Your Car</a></li>
+                    <li><a href="https://www.kbb.com/instant-cash-offer/W/1150141/43A6F9B8-DB6C-48C0-A360-F658B2176E3E/" target="_blank">KBB Instant Cash Offer!</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/apply-for-credit/">Apply For Credit</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/sell-your-car/appraisal/">Estimate My Trade In</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/before-you-buy/preowned-promise/">Preowned Promise</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/before-you-buy/lifetime-limited-warranty/">Limited Lifetime Warranty</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/before-you-buy/dick-hannah-e-learning/">E-Learning Center</a></li>
+                  </ul>
+              </li>
+              <li class="dh_menu_item_ver2"><a href="#" onclick="return false;">SERVICE, TIRES & BODY <i class="fa fa-caret-down"></i></a>
+                  <ul class="dh_dropdown_ver2">
+                    <li><a href="https://www.dickhannahsubaru.com/schedule-service/">Schedule Service</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/schedule-service/subaru-service-repair-coupons/">Coupons</a></li>
+                    <li><a href="https://www.dealertirecenter.com/?uid=4D0919F4-85B6-415E-9F3FC326D0B34FF1" target="_new">We Sell Tires</a></li>
+                    <li><a href="https://www.dickhannahvancouverautobody.com/" target="_new">Auto Body Shop</a></li>
+                    <li><a href="/parts/">Parts Center</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/subaru-recall/">Subaru Recalls</a></li>
+                  </ul>
+              </li>
+              <li class="dh_menu_item_ver2"><a href="#" onclick="return false;">COMPANY <i class="fa fa-caret-down"></i></a>
+                  <ul class="dh_dropdown_ver2">
+                    <li><a href="https://www.dickhannahsubaru.com/hours-and-location/">Hours & Location</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/company/meet-our-team/">Meet Our Team</a></li>
+                    <li><a href="https://www.dickhannah.com/careers/" target="_new">Careers</a></li>
+                    <li><a href="https://www.dickhannah.com/community/" target="_new">Community</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/company/">Company</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/company/auto-blog/">Auto Blog</a></li>
+                    <li><a href="https://www.dickhannahsubaru.com/customer-reviews/">Reviews</a></li>
+                  </ul>
+              </li>
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+<style scoped>
+.mobile_menu_link,.BYBSubMenu_link,.RSubMenu_link,.STFSubMenu_link,.STBSubMenu_link,.CSubMenu_link,.mobile_menu_link:hover,.BYBSubMenu_link:hover,.RSubMenu_link:hover,.STFSubMenu_link:hover,.STBSubMenu_link:hover,.CSubMenu_link:hover{color:#666;}
+.BYBSubMenu_link.active,.RSubMenu_link.active,.STFSubMenu_link.active,.STBSubMenu_link.active,.CSubMenu_link.active,.BYBSubMenu_link.active:hover,.RSubMenu_link.active:hover,.STFSubMenu_link.active:hover,.STBSubMenu_link.active:hover,.CSubMenu_link.active:hover{color:#9a9a9a;}
+.mobile_item_spacing{display:flex;justify-content:space-between;align-items:center;}
+.BYBSubMenu,.RSubMenu,.STFSubMenu,.STBSubMenu,.CSubMenu{max-height: 0px;transition: max-height 0.5s ease-out;overflow:hidden;background:#eee;}
+.BYBSubMenu.active,.RSubMenu.active,.STFSubMenu.active,.STBSubMenu.active,.CSubMenu.active{max-height: 100%;transition: max-height 0.4s ease-in;}
+.mobile-nav-button p{display:block;margin:0;padding:0;text-align:center;font-size:0.35em;}
+.rotate{transform:rotate(-90deg);color:#9a9a9a;}
+.RSubMenu a img{max-width: 70px !important;}
+</style>
+<div class="dh_mobile">
+<div class="x-navbar-wrap relative">
+    <div class="x-navbar-inner">
+        <div class="x-container max" style="display:flex;justify-content:space-between;align-items:center;">
+                <div class="hamburger" style="height:70px;float:left;">
+                    <button class="dropbtn dhd_blue" onclick="openMenu();" style="border:none;background:none;padding:1em;max-width:60px;width:100%;height:100%;">
+                        <i class="fas fa-bars fa-2x"></i>
+                    </button>
+                </div>
+                <div class="sidebar">
+                      <div style="display: flex;align-items:center;background-color: #efefef;justify-content:space-between;padding:1em 0;">
+                        <div class="mobile-nav-button"><a href="tel:3603140504"><i class="fas fa-mobile-alt store_color" style="font-size:41px;margin:-0.1em 0.3em 0;"></i><p>Phone</p></a></div>
+                        <div class="mobile-nav-button"><a href="#" onclick="openModal('Contact Us', contactForm());return false;"><i class="fas fa-envelope store_color" style="font-size:41px;margin:-0.1em 0.3em 0;"></i><p>Email</p></a></div>
+                        <div class="mobile-nav-button"><a href="https://www.dickhannahsubaru.com/hours-and-location/"><i class="fas fa-map-marker-alt store_color" style="font-size:41px;margin:-0.1em 0.3em 0;"></i><p>Address</p></a></div>
+                      </div>
+                      <ul>
+                      <li class="mobile_search"><form class="tc" style="margin:0;" action="https://www.dickhannahsubaru.com/search" method="GET"><div class="search_input_icons"><i class="fa fa-search icon"></i><input class="search_input_field tl" id="kw" name="kw" type="text" placeholder="Search"></div></form></li>
+                      <li><a href="https://www.dickhannahsubaru.com/new/" class="mobile_menu_link">New</a></li>
+                      <li><a href="https://www.dickhannahsubaru.com/used/" class="mobile_menu_link">Preowned</a></li>
+                      <li class="BYBSubMenuSelect"><a href="#" onclick="openBYBSubMenu();return false;" class="BYBSubMenu_link"><div class="mobile_item_spacing">Specials<i class="BYBSubMenuArrow fas fa-angle-right"></i></div></a></li>
+                        <ul class="BYBSubMenu">
+                          <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/factory-offers/" class="mobile_menu_link">Factory Offers & Dealer Specials</a></li>
+                          <li><a href="https://www.dickhannahsubaru.com/schedule-service/subaru-service-repair-coupons/" class="mobile_menu_link">Service Coupons</a></li>
+                        </ul>
+                      <li class="RSubMenuSelect"><a href="#" onclick="openRSubMenu();return false;" class="RSubMenu_link"><div class="mobile_item_spacing">Research<i class="RSubMenuArrow fas fa-angle-right"></i></div></a></li>
+                        <ul class="RSubMenu">  
+                          <li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-ascent-2023/">
+
+       <img loading="lazy" alt="Ascent" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1495/2023-Ascent.webp"/>2023 Ascent</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/2023-subaru-brz/">
+
+       <img loading="lazy" alt="BRZ" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1475/2023-BRZ.png"/>2023 BRZ</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/2024-subaru-crosstrek/">
+
+       <img loading="lazy" alt="Crosstrek" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1544/24-subaru-crosstrek.webp"/>2024 Crosstrek</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-forester-2023/">
+
+       <img loading="lazy" alt="Forester" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1507/2023-forester.webp"/>2023 Forester</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-impreza-2024/">
+
+       <img loading="lazy" alt="Impreza" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1547/24-impreza.webp"/>2024 Impreza</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-legacy-2024/">
+
+       <img loading="lazy" alt="Legacy" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1546/2024-legacy.webp"/>2024 Legacy</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-outback-2024/">
+
+       <img loading="lazy" alt="Outback" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1545/2024-subaru-outback.webp"/>2024 Outback</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-solterra-2023/">
+
+       <img loading="lazy" alt="Solterra" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1517/2023-Solterra.webp"/>2023 Solterra</a></li><li class="car"><a style="color:#58595B;" href="https://www.dickhannahsubaru.com/subaru-wrx-2023/">
+
+       <img loading="lazy" alt="WRX" width=40 height=40 src="https://www.dickhannahsubaru.com/files/dh/models/1540/2023-wrx.webp"/>2023 WRX</a></li>                        
+                        </ul>
+                      <li class="STFSubMenuSelect"><a href="#" onclick="openSTFSubMenu();return false;" class="STFSubMenu_link"><div class="mobile_item_spacing">Sell, Trade & Finance<i class="STFSubMenuArrow fas fa-angle-right"></i></div></a></li>
+                        <ul class="STFSubMenu">
+                          <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/sell-your-car/" class="mobile_menu_link">Sell Your Car</a></li>
+                          <li><a href="https://www.kbb.com/instant-cash-offer/W/1150141/43A6F9B8-DB6C-48C0-A360-F658B2176E3E/" target="_blank" class="mobile_menu_link">KBB Instant Cash Offer!</a></li>
+                          <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/sell-your-car/appraisal/" class="mobile_menu_link">Estimate Your Trade-in</a></li>
+                          <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/apply-for-credit/" class="mobile_menu_link">Apply For Credit</a></li>
+                          <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/" class="mobile_menu_link">Sell, Trade & Finance Center</a></li>
+                        </ul>
+                      <li class="STBSubMenuSelect"><a href="#" onclick="openSTBSubMenu();return false;" class="STBSubMenu_link"><div class="mobile_item_spacing">Service, Tires & Body<i class="STBSubMenuArrow fas fa-angle-right"></i></div></a></li>
+                        <ul class="STBSubMenu">
+                        <li><a href="https://www.dickhannahsubaru.com/schedule-service/" class="mobile_menu_link">Schedule Subaru Service</a></li>        
+                          <li><a href="https://www.dickhannahsubaru.com/schedule-service/subaru-service-repair-coupons/" class="mobile_menu_link">Subaru Service Coupons</a></li>
+                          <li><a href="https://www.dickhannahsubaru.com/sell-trade-finance-center/service-financing/" class="mobile_menu_link">Subaru Service Financing</a></li>
+                          <li><a href="https://www.dealertirecenter.com/?uid=4D0919F4-85B6-415E-9F3FC326D0B34FF1" target="_new" class="mobile_menu_link">Tire Center</a></li>
+                          <li><a href="https://www.dickhannahvancouverautobody.com/" target="_new" class="mobile_menu_link">Auto Body Repair</a></li>
+                          <li><a href="/parts/" class="mobile_menu_link">Parts Center</a></li>
+                          <li><a href="https://www.dickhannahsubaru.com/subaru-recall/" class="mobile_menu_link">Subaru Recalls</a></li>
+                        </ul>
+                      <li class="CSubMenuSelect" style="border-bottom:none;"><a href="#" onclick="openCSubMenu();return false;" class="CSubMenu_link"><div class="mobile_item_spacing">Company<i class="CSubMenuArrow fas fa-angle-right"></i></div></a></li>
+                        <ul class="CSubMenu">
+                          <li><a href="https://www.dickhannahsubaru.com/hours-and-location/" class="mobile_menu_link">Hours & Location</a></li>
+                          <li><a href="https://www.dickhannahsubaru.com/company/meet-our-team/" class="mobile_menu_link">Meet Our Team</a></li>
+                          <li><a href="https://www.dickhannah.com/careers/" target="_new" class="mobile_menu_link">Careers</a></li>
+                          <li><a href="https://www.dickhannah.com/community/" target="_new" class="mobile_menu_link">Community</a></li>
+                          <li><a href="https://www.dickhannahsubaru.com/company/" class="mobile_menu_link">Company</a></li>                     
+                          <li><a href="https://www.dickhannahsubaru.com/company/auto-blog/" class="mobile_menu_link">Auto Blog</a></li>
+                          <li><a href="https://www.dickhannahsubaru.com/customer-reviews/" class="mobile_menu_link">Reviews</a></li>
+
+                        </ul>
+                      </ul>
+                    </div>
+                <a href="https://www.dickhannahsubaru.com/" class="dh_logo" style="flex:1;"><img style="width:100%;max-width:225px;" src="https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/img/logos/DHD+70yr_lock-up_440x80.png" alt="Dick Hannah Dealerships"/></a>
+                <a href="https://www.dickhannahsubaru.com/" style="flex:1;text-align:right;"><img src="https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/img/logos/subaru_long.png" alt="Dick Hannah Subaru" style="padding: 0 0.5em 0 0.3em;width:100%;max-width:225px;"/></a>
+               
+        </div>
+    </div>
+</div>
+<!-- <div class="announcement">
+  <a style="color:#fff;" href="#" onclick="return false;">Dick Hannah locations will be closed Friday, December 23rd, 2022 for inclement weather.</a>
+</div> -->
+</div>
+<script>
+function openMenu() {jQuery('.sidebar').toggleClass('active');}
+function openBYBSubMenu() {closeRSubMenu();closeSTFSubMenu();closeSTBSubMenu();closeCSubMenu();jQuery('.BYBSubMenu').toggleClass('active');jQuery('.BYBSubMenu_link').toggleClass('active');jQuery('.BYBSubMenuSelect').toggleClass('active');jQuery('.BYBSubMenuArrow').toggleClass('rotate');}
+function openRSubMenu() {closeBYBSubMenu();closeSTFSubMenu();closeSTBSubMenu();closeCSubMenu();jQuery('.RSubMenu').toggleClass('active');jQuery('.RSubMenu_link').toggleClass('active');jQuery('.RSubMenuSelect').toggleClass('active');jQuery('.RSubMenuArrow').toggleClass('rotate');}
+function openSTFSubMenu() {closeRSubMenu();closeBYBSubMenu();closeSTBSubMenu();closeCSubMenu();jQuery('.STFSubMenu').toggleClass('active');jQuery('.STFSubMenu_link').toggleClass('active');jQuery('.STFSubMenuSelect').toggleClass('active');jQuery('.STFSubMenuArrow').toggleClass('rotate');}
+function openSTBSubMenu() {closeRSubMenu();closeSTFSubMenu();closeBYBSubMenu();closeCSubMenu();jQuery('.STBSubMenu').toggleClass('active');jQuery('.STBSubMenu_link').toggleClass('active');jQuery('.STBSubMenuSelect').toggleClass('active');jQuery('.STBSubMenuArrow').toggleClass('rotate');}
+function openCSubMenu() {closeRSubMenu();closeSTFSubMenu();closeBYBSubMenu();closeSTBSubMenu();jQuery('.CSubMenu').toggleClass('active');jQuery('.CSubMenu_link').toggleClass('active');jQuery('.CSubMenuSelect').toggleClass('active');jQuery('.CSubMenuArrow').toggleClass('rotate');}
+
+function closeSTFSubMenu() {jQuery('.STFSubMenu').removeClass('active');jQuery('.STFSubMenu_link').removeClass('active');jQuery('.STFSubMenuSelect').removeClass('active');jQuery('.STFSubMenuArrow').removeClass('rotate');}
+function closeRSubMenu() {jQuery('.RSubMenu').removeClass('active');jQuery('.RSubMenu_link').removeClass('active');jQuery('.RSubMenuSelect').removeClass('active');jQuery('.RSubMenuArrow').removeClass('rotate');}
+function closeBYBSubMenu() {jQuery('.BYBSubMenu').removeClass('active');jQuery('.BYBSubMenu_link').removeClass('active');jQuery('.BYBSubMenuSelect').removeClass('active');jQuery('.BYBSubMenuArrow').removeClass('rotate');}
+function closeSTBSubMenu() {jQuery('.STBSubMenu').removeClass('active');jQuery('.STBSubMenu_link').removeClass('active');jQuery('.STBSubMenuSelect').removeClass('active');jQuery('.STBSubMenuArrow').removeClass('rotate');}
+function closeCSubMenu() {jQuery('.CSubMenu').removeClass('active');jQuery('.CSubMenu_link').removeClass('active');jQuery('.CSubMenuSelect').removeClass('active');jQuery('.CSubMenuArrow').removeClass('rotate');}
+</script>
+
+    
+  
+    <div class="x-breadcrumb-wrap">
+      <div class="x-container max width">
+
+        <div class="x-breadcrumbs"><a href="https://www.dickhannahsubaru.com/" ><span class="home"><i class="fas fa-home"></i></span></a> <span class="delimiter"><i class="fas fa-angle-right"></i></span> <a href="https://www.dickhannahsubaru.com/company/" >Company</a> <span class="delimiter"><i class="fas fa-angle-right"></i></span> <a href="https://www.dickhannahsubaru.com/company/auto-blog/" class="current" title="You Are Here" >Dick Hannah Subaru Auto Blog</a></div>
+        
+      </div>
+    </div>
+
+    </header>
+
+    
+</div></div>
+<style>
+h4 a, h4 a:visited, h4 a:hover {
+	color: #000;
+}
+.breadcrumbs {
+	margin: 0;
+}
+
+.FeaturedIMG_Wrap {
+	float: left;
+	width: 30%;
+	margin-right: 5%;
+	text-align: center;
+}
+
+.FeaturedIMG_Wrap img {
+	width: auto;
+	height: auto;
+	max-height: 210px;
+}
+
+.blog_summary {
+	float: left;
+	width: 100%;
+}
+
+.blog_summary p {
+	padding-bottom: 0;
+}
+
+.HasFeaturedIMG {
+	width: 65%;
+}
+
+.dh_AutoBLog_Wrappr .dhannah_blog_SrchRsltEntry {
+	border-top: 1px solid #bbb;
+	padding: 40px 0;
+}
+
+.dh_AutoBLog_Wrappr .dhannah_blog_SrchRsltEntry:first-of-type {
+	border-top: 0;
+}
+
+.blog_title {
+    font-weight: bold;
+    font-size: 22px;
+    padding: 5px 0;
+}
+
+.blog_date {
+color: #888;
+font-weight: bold;
+font-size: 14px;
+}
+
+
+
+.SEL_blog_SrchRsltEntry {
+	background: black;
+	width: 33.33%;
+	height: auto;
+	display: inline-block;
+	background-size: cover;
+	position: relative;
+	float: left;
+	padding: 0 0 19% 0;
+	background-position: center;
+	transition: 0.2s ease;
+	opacity: .8;
+}
+
+.SEL_blog_SrchRsltEntry:hover {
+	opacity: 1;
+}
+
+.SEL_blog_SrchRsltEntry:hover .SEL_blog_summary {
+	padding-bottom: 20px;
+}
+
+.SEL_blog_SrchRsltEntry img {
+	width: auto;
+	height: auto;
+}
+
+.SEL_FeaturedIMG_Wrap {
+	background: orange;
+}
+
+.SEL_blog_summary {
+	width: 100%;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 10px;
+	font-size: .9em;
+	text-align: center;
+	line-height: 1.4em;
+	background: rgba(0, 0, 0, 0.5);
+	transition: 0.2s ease;
+}
+
+.SEL_blog_title {
+	font-size: 18px;
+}
+
+.SEL_blog_date {
+	font-size: 12px;
+	color: #d9d9d9;
+}
+
+
+
+
+
+/* Pagination */
+.pagination {
+display: block;
+margin-top: 5px;
+width: 100%;
+text-align: center;
+}
+
+.pagination, .pagination a, .pagination span {
+border-radius: 0;
+width: 100%;
+}
+
+.pagination span, .pagination a {
+display: inline-block;
+margin: 4px 0 4px 4px;
+padding: 13px;
+text-decoration: none;
+width: auto;
+color: #fff; /* Pagination text color */
+background: #555; /* Pagination non-active background color */
+-webkit-transition: background .15s ease-in-out;
+-moz-transition: background .15s ease-in-out;
+-ms-transition: background .15s ease-in-out;
+-o-transition: background .15s ease-in-out;
+transition: background .15s ease-in-out;
+}
+
+.pagination a:hover{
+color: #fff;
+background: #6AAC70; /* Pagination background on hover */
+}
+
+.pagination .current{
+background: #6AAC70; /* Current page background */
+color: #fff;
+}
+
+.page_nav, .pagination span, .pagination a, .current_page, .pagination .current {
+line-height: .6em;
+height: auto;
+}
+
+.PagNumbs {
+display: inline-block;
+}
+
+
+/* TABLET */
+@media all and (max-width: 650px) and (min-width: 540px) {
+	
+	.SEL_blog_SrchRsltEntry {
+	width: 50%;
+	}
+	
+	.SEL_blog_summary {
+	padding: 5px;
+	}
+	
+	.FeaturedIMG_Wrap {
+	width: 100%;
+	margin-right: 0;
+	}
+	
+	.HasFeaturedIMG {
+	width: 100%;
+	margin-top: 15px;
+	}
+	
+	.PagNumbs {
+	display: none;
+	}
+	
+}
+
+
+/* PHONE */
+@media all and (max-width: 539px) {
+	
+	.SEL_blog_SrchRsltEntry {
+	width: 100%;
+	min-height: 170px;
+	}
+	
+	.SEL_blog_summary {
+	padding: 5px;
+	}
+	
+	.FeaturedIMG_Wrap {
+	width: 100%;
+	margin-right: 0;
+	}
+	
+	.HasFeaturedIMG {
+	width: 100%;
+	margin-top: 15px;
+	}
+	
+	.PagNumbs {
+	display: none;
+	}
+	
+	.pagination, .pagination a, .pagination span {
+	font-size: 13px;
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
+</style>
+<div class="x-container max">
+<div class="inner_wrapper">
+<div>
+	
+		
+	<h1 style="margin-bottom: 10px;">Dick Hannah Auto Blog</h1>
+	
+	
+	
+	
+		<div class="dh_AutoBLog_Wrappr">
+			
+				
+		<a href="https://www.dickhannahsubaru.com/auto-blog/2022-subaru-outback-review/">
+		<div class="SEL_blog_SrchRsltEntry" style="background: url('https://www.dickhannahsubaru.com/files/2021/10/20CL_LDH_4C_AF40863_081524_LO.jpg') no-repeat center center;">
+			
+			<div class="SEL_blog_summary HasFeaturedIMG">
+				<h4 class="SEL_blog_title">2022 Subaru Outback Review</h4>
+				
+				<div class="SEL_blog_date">
+					October 27, 2021				</div>
+			</div>
+			
+			<div class="clearfix"></div>
+		</div>
+		</a>
+		
+			
+				
+		<a href="https://www.dickhannahsubaru.com/auto-blog/2021-subaru-crosstrek-review/">
+		<div class="SEL_blog_SrchRsltEntry" style="background: url('https://www.dickhannahsubaru.com/files/2021/10/21TDI_CTKb009-1.jpg') no-repeat center center;">
+			
+			<div class="SEL_blog_summary HasFeaturedIMG">
+				<h4 class="SEL_blog_title">2021 Subaru Crosstrek Review</h4>
+				
+				<div class="SEL_blog_date">
+					October 20, 2021				</div>
+			</div>
+			
+			<div class="clearfix"></div>
+		</div>
+		</a>
+		
+			
+				
+		<a href="https://www.dickhannahsubaru.com/auto-blog/2022-subaru-brz/">
+		<div class="SEL_blog_SrchRsltEntry" style="background: url('https://www.dickhannahsubaru.com/files/2020/11/BRZMainBanner.jpg') no-repeat center center;">
+			
+			<div class="SEL_blog_summary HasFeaturedIMG">
+				<h4 class="SEL_blog_title">2022 Subaru BRZ &#8211; The Next Generation</h4>
+				
+				<div class="SEL_blog_date">
+					November 30, 2020				</div>
+			</div>
+			
+			<div class="clearfix"></div>
+		</div>
+		</a>
+		
+			
+				
+		<a href="https://www.dickhannahsubaru.com/auto-blog/subaru-tow-capacity/">
+		<div class="SEL_blog_SrchRsltEntry" style="background: url('https://www.dickhannahsubaru.com/files/2020/08/2020_subaru_ascent_towing.jpg') no-repeat center center;">
+			
+			<div class="SEL_blog_summary HasFeaturedIMG">
+				<h4 class="SEL_blog_title">How Much Can My Subaru Tow?</h4>
+				
+				<div class="SEL_blog_date">
+					August 20, 2020				</div>
+			</div>
+			
+			<div class="clearfix"></div>
+		</div>
+		</a>
+		
+			
+				
+		<a href="https://www.dickhannahsubaru.com/auto-blog/2020-subaru-forester-vs-2020-kia-sportage/">
+		<div class="SEL_blog_SrchRsltEntry" style="background: url('https://www.dickhannahsubaru.com/files/2020/08/ForestervsSportageFeaturedImage-e1596659488761.jpg') no-repeat center center;">
+			
+			<div class="SEL_blog_summary HasFeaturedIMG">
+				<h4 class="SEL_blog_title">2020 Subaru Forester vs 2020 Kia Sportage</h4>
+				
+				<div class="SEL_blog_date">
+					August 05, 2020				</div>
+			</div>
+			
+			<div class="clearfix"></div>
+		</div>
+		</a>
+		
+			
+				
+		<a href="https://www.dickhannahsubaru.com/auto-blog/symmetrical-all-wheel-drive/">
+		<div class="SEL_blog_SrchRsltEntry" style="background: url('https://www.dickhannahsubaru.com/files/2020/07/for_key_safety_awd02_lrg.jpg') no-repeat center center;">
+			
+			<div class="SEL_blog_summary HasFeaturedIMG">
+				<h4 class="SEL_blog_title">Symmetrical All Wheel Drive</h4>
+				
+				<div class="SEL_blog_date">
+					July 27, 2020				</div>
+			</div>
+			
+			<div class="clearfix"></div>
+		</div>
+		</a>
+		
+			
+						<div class="clearfix"></div>
+			<div class="dhannah_blog_SrchRsltEntry">
+		
+				<div class="FeaturedIMG_Wrap">
+			<a href="https://www.dickhannahsubaru.com/auto-blog/certified-pre-owned-subaru/"><img width="523" height="338" src="https://www.dickhannahsubaru.com/files/2019/11/Screen-Shot-2019-11-04-at-2.15.25-PM.png" class="attachment-full size-full wp-post-image" alt="Subaru Certified Pre Owned" loading="lazy" /></a>
+		</div>
+				
+		<div class="blog_summary HasFeaturedIMG">
+			<h4 class="blog_title"><a href="https://www.dickhannahsubaru.com/auto-blog/certified-pre-owned-subaru/">What is a Certified Pre-Owned Subaru?</a></h4>
+			
+			<div class="blog_date">
+				November 04, 2019			</div>
+			
+			<p class="blog_excerpt">
+				Subaru Certified Pre-Owned Vehicles and The Benefits You may hear Certified Pre-Owned quite a bit when you are busy shopping for your next vehicle. Subaru has its own Certified Pre-Owned program in which qualified vehicles endure a thorough inspection by our Subaru Factory Trained Technicians and is equipped with one of the best warranties...<a href="https://www.dickhannahsubaru.com/auto-blog/certified-pre-owned-subaru/">Read more</a>			</p>
+		</div>
+		
+		<div class="clearfix"></div>
+	</div>
+			
+			<div class="dhannah_blog_SrchRsltEntry">
+		
+				<div class="FeaturedIMG_Wrap">
+			<a href="https://www.dickhannahsubaru.com/auto-blog/2017-subaru-crosstrek/"><img width="900" height="300" src="https://www.dickhannahsubaru.com/files/2017/04/2017-subaru-crosstrek-feature.jpg" class="attachment-full size-full wp-post-image" alt="2017-subaru-crosstrek-feature" loading="lazy" /></a>
+		</div>
+				
+		<div class="blog_summary HasFeaturedIMG">
+			<h4 class="blog_title"><a href="https://www.dickhannahsubaru.com/auto-blog/2017-subaru-crosstrek/">2017 Subaru Crosstrek</a></h4>
+			
+			<div class="blog_date">
+				April 03, 2017			</div>
+			
+			<p class="blog_excerpt">
+				2017 Subaru Crosstrek Portland Oregon The Subaru Crosstrek is a low profile crossover that is dominant in its class. First introduced in 2012, the Subaru Crosstrek offers the ruggedness of an SUV while carrying the sportier stature of a performance sedan. Highly functional and loaded with technology, the 2017 Crosstrek is a perfect fit...<a href="https://www.dickhannahsubaru.com/auto-blog/2017-subaru-crosstrek/">Read more</a>			</p>
+		</div>
+		
+		<div class="clearfix"></div>
+	</div>
+			</div>
+	<div class="pagination"><span>Page 1 of 2</span><div class="PagNumbs"><span class="current">1</span><a href='https://www.dickhannahsubaru.com/company/auto-blog/page/2/' class="inactive">2</a></div><a href="https://www.dickhannahsubaru.com/company/auto-blog/page/2/">Next &rsaquo;</a></div>
+	
+	<div class="clearfix"></div>
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+</div>
+</div></div>
+
+
+
+  
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "AutoDealer",
+  "description": "As one of the fastest growing, top-rated Subaru dealerships in the Northwest, Dick Hannah Subaru provides a superior car buying and service experience. Dick Hannah Subaru includes a <b>FREE LIFETIME LIMITED POWERTRAIN WARRANTY</b> on all new Subaru vehicles. Standard.",
+  "name": "Dick Hannah Subaru",
+  "telephone": "360-314-0504",
+  "image": "http://www.dickhannah.com/wp-content/themes/dh-x/framework/img/logos/DHD+70yr_lock-up_440x80.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Vancouver",
+    "addressRegion": "WA",
+    "streetAddress": "7407 NE Vancouver Plaza Dr."
+  },
+  "openingHoursSpecification": [
+        {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "opens": "09:00",
+            "closes": "20:00"
+        },
+        {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Sunday",
+            "opens": "10:00",
+            "closes": "20:00"
+        }
+    ],
+    "sameAs": [
+      "https://www.facebook.com/HannahSubaru/",
+      "https://twitter.com/HannahSubaru",
+      "",
+      "https://www.youtube.com/c/DickHannahDealerships",
+      "https://www.linkedin.com/showcase/dick-hannah-subaru/"
+    ],
+    "department": [
+        {
+            "@type": "AutoRepair",
+            "name": "Dick Hannah Subaru Service",
+            "image": "http://www.dickhannah.com/wp-content/themes/dh-x/framework/img/logos/DHD+70yr_lock-up_440x80.png",
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "18:00"
+            }
+        },
+        {
+            "@type": "AutoPartsStore",
+            "name": "Dick Hannah Subaru Parts",
+            "image": "http://www.dickhannah.com/wp-content/themes/dh-x/framework/img/logos/DHD+70yr_lock-up_440x80.png",
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "opens": "07:00",
+                "closes": "18:00"
+            }
+        }
+    ]
+}
+
+</script>
+ 
+   
+    <footer class="x-colophon top" style="padding:0;">
+        <div class="x-container max custom_footer_wrapper">
+            <div class="custom_footer" style="padding:1em 0;overflow:auto;">
+              <div class="menu-footer">
+              <ul class="menu" style="list-style:none;margin:0;">
+                <li class=""><a style="color:#fff;" href="https://www.dickhannahsubaru.com">Home</a></li>
+                <li class=""><a style="color:#fff;" href="https://www.dickhannahsubaru.com/sell-trade-finance-center/">Sell, Trade &amp; Finance</a></li>
+                <li class=""><a style="color:#fff;" href="https://www.dickhannahsubaru.com/before-you-buy/">Before You Buy</a></li>
+                <li class=""><a style="color:#fff;" href="https://www.dickhannahsubaru.com/schedule-service/">Service, Tires &amp; Body</a></li>
+                                                                              </ul>
+              </div>
+              <div class="menu-footer">
+              <ul class="menu" style="list-style:none;margin:0;">
+              <li class=""><a style="color:#fff;" href="https://www.dickhannahsubaru.com/company/">Company</a></li>
+                <li id="" class=""><a style="color:#fff;" href="https://www.dickhannahsubaru.com/company/hours-and-directions/">Hours and Directions</a></li>
+                                <li id="" class=""><a style="color:#fff;" href="https://www.dickhannahsubaru.com/customer-reviews/" target="_new">Customer Reviews</a></li>
+                                <li id="" class=""><a style="color:#fff;" href="https://www.dickhannahsubaru.com/privacy-policy/">Privacy Policy</a></li>
+                <li id="" class=""><a style="color:#fff;" href="https://www.dickhannahsubaru.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
+                                              </ul>
+              </div>
+              <div class="footer_break">
+                                                <div>Phone:<br><a href="tel:360-314-0504"><span style="color:#fff;">360-314-0504</span></a><br>Address:<br><span style="color:#fff;">7407 NE Vancouver Plaza Dr. Vancouver WA 98662</span></div>
+                                            </div>
+            </div>
+        </div>
+        <div style="background-color:#000;width:100%;text-align:center;color:#f6f6f6;">
+                <a href="https://www.facebook.com/HannahSubaru/"><img alt="Dick Hannah Subaru Facebook" src="https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/img/icons/facebookwhite.png" class="socialIcons"></a>
+             <!--   <a href="https://twitter.com/HannahSubaru"><img alt="Dick Hannah Subaru Twitter" src="https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/img/icons/twitterwhite.png" class="socialIcons"></a>  -->
+                                                <a href="https://www.linkedin.com/showcase/dick-hannah-subaru/"><img alt="Dick Hannah Subaru LinkedIn" src="https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/img/icons/linkedinwhite.png" class="socialIcons"></a>
+                                <a href="https://www.youtube.com/c/DickHannahDealerships"><img alt="Dick Hannah Subaru Youtube" src="https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/img/icons/youtubewhite.png" class="socialIcons"></a>
+        </div>
+        <div style="background-color:#000;width:100%;text-align:center;color:#f6f6f6;">Copyright © 2023 Dick Hannah Dealerships</div>
+    </footer>
+      
+  
+
+    
+    </div> <!-- END .x-site -->
+
+    
+  </div> <!-- END .x-root -->
+
+<div id="cs-footer"></div>  <script defer type="text/javascript" src="//cdn.callrail.com/companies/983795810/cb1bca65e3d3df78c6c5/12/swap.js"></script>
+                   
+            <!-- Clarivoy Tracking Code -->
+    <script type="text/javascript" src="//tags-cdn.clarivoy.com/dickhannah/td/tva/loader.js" async></script>
+    <!-- End Clarivoy Tracking Code -->
+    <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js' id='Slick-js'></script>
+<script type='text/javascript' id='cornerstone-site-body-js-extra'>
+/* <![CDATA[ */
+var csJsData = {"linkSelector":"#cs-content a[href*=\"#\"]"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-content/plugins/cornerstone/assets/js/site/cs.6f62d0f.js' id='cornerstone-site-body-js'></script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/js/dist/site/x-body.min.js?ver=6.0.4' id='x-site-body-js'></script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/js/dist/site/hub.js?ver=6.0.4' id='x-site-hub-js'></script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-includes/js/comment-reply.min.js?ver=5.8.7' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-content/themes/dh-x/framework/legacy/cranium/js/dist/site/x-body.min.js?ver=6.0.4' id='x-cranium-migration-body-js'></script>
+<script type='text/javascript' src='https://www.dickhannahsubaru.com/wp-includes/js/wp-embed.min.js?ver=5.8.7' id='wp-embed-js'></script>
+<style scoped>
+   .TiVmodal_box_close{position:absolute;right:21px;top:21px;width:1.5em;text-align:center;cursor:pointer;font-weight:bold;color:#000;background:rgba(245,245,220,0.8);font-size:2em;}
+  .promo_modal_box_close{position:absolute;right:24px;top:24px;width:1.5em;text-align:center;cursor:pointer;font-weight:bold;color:#000;background:rgba(245,245,220,0.8);font-size:2em;}
+  .modal_container{position: fixed;
+    width: 100%;
+    height: 100%;
+    display: none;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 9999999999;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: opacity .4s,visibility .4s;
+    -moz-transition: opacity .4s,visibility .4s;
+    -ms-transition: opacity .4s,visibility .4s;
+    transition: opacity .4s,visibility .4s;}
+  .modal_open{opacity: 1;
+    visibility: visible;
+    display: block;
+    animation-name: modalOpen;
+    animation-duration: 1s;
+    -webkit-transition: opacity .3s,visibility .3s;
+    -moz-transition: opacity .3s,visibility .3s;
+    -ms-transition: opacity .3s,visibility .3s;
+    transition: opacity .3s,visibility .3s;}
+    
+    @keyframes modalOpen {
+  0% {
+    opacity: 0;
+    transform: translateY(70%);
+  } 
+  100% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+}
+  .modal_spacing{display:flex;height:100%;width:100%;align-items:center;justify-content:center;}
+  .modal_box{width:100%;max-width:600px;margin:0;box-shadow:5px 5px 5px rgba(0,0,0,0.5);background:#ebebeb;}
+  .modal_box_header{width:100%;padding:0.6em;position:relative;text-transform:uppercase;font-weight:600;font-size:2em;}
+  .modal_box_close{position:absolute;top:-10px;right:7px;color:#fff;cursor:pointer;}
+  .modal_box_content{padding:1.5em;width:100%;color:#000;max-height:450px;overflow:auto;}
+  @media (min-width:768px){
+    .modal_box_content{overflow:scroll;}
+  }
+</style>
+<script defer>
+  jQuery(window).on('load',function(){
+    /******************************************
+     * These are required functions.
+    ******************************************/
+    function setCookie(name,value,days) {
+			var expires = "";
+			if (days) {
+				var date = new Date();
+				date.setTime(date.getTime() + (days*24*60*60*1000));
+				expires = "; expires=" + date.toUTCString();
+			}
+			document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+		}
+		function getCookie(name) {
+			var nameEQ = name + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			}
+			return null;
+		}
+
+    /******************************************
+     * Show Message Once and Never again 
+    ******************************************/
+		/*
+    var x = getCookie('PromoName');
+		if (x) {
+			
+		} else {
+                PromoOpenModal();
+      			setCookie('PromoName','1',365);
+		}
+    */
+    /******************************************
+     * Show Message Once per Session
+    ******************************************/
+    });
+</script>
+<div class="modal_container">
+  <div class="modal_spacing">
+    <div class="modal_box">
+      <div class="modal_box_header store_color_bg">
+        <span id="modal_header_in"></span>
+        <div class="modal_box_close">&times</div>
+      </div>
+      <div class="modal_box_content"><div id="modal_content_in"></div></div>
+    </div>
+  </div>
+</div>
+<script>
+//Promo close
+function PromoCloseModal() {
+  jQuery('.modal_box_header').css('display','block');
+  jQuery('.modal_box').css('background','#ebebeb');
+  jQuery('.modal_box').css('position','static');
+  jQuery('.modal_box').css('box-shadow','5px 5px 5px rgba(0,0,0,0.5)');
+  jQuery('.modal_box_content').css('max-height','250px');
+  jQuery('#modal_content_in').html('');
+  jQuery('.modal_container').removeClass('modal_open');
+  ga('send', 'event', 'Auto Show Popup', 'Closed', 'Click for Offer');
+}
+//Sitewide modal
+function openModal(h,c) {
+  jQuery('#modal_header_in').html(h);
+  jQuery('#modal_content_in').html(c);
+  jQuery('.modal_container').addClass('modal_open');
+}
+function closeModal() {
+  jQuery('#modal_header_in').html('');
+  jQuery('#modal_content_in').html('');
+  jQuery('.modal_container').removeClass('modal_open');
+}
+jQuery('.modal_box_close').click(function() {
+    closeModal();
+    console.log('closing modal');
+});
+</script>
+<!-- Google Optimization Implimentations -->
+<script>
+(function () {
+  try {
+    /*-----------------------
+      section data 
+    -----------------------*/
+    var FeHelper = this;
+    //wait for element to load
+    FeHelper.doWhenElementLoaded = function (
+      selector,
+      trigger,
+      delayInterval,
+      delayTimeout
+    ) {
+      var interval = setInterval(function () {
+        if (
+          document &&
+          document.querySelectorAll(selector) &&
+          document.querySelectorAll(selector).length > 0
+        ) {
+          clearInterval(interval);
+          trigger();
+        }
+      }, delayInterval);
+      setTimeout(function () {
+        clearInterval(interval);
+      }, delayTimeout);
+    };
+    /*-----------------------
+      init is the main controller
+      --------------------*/
+    FeHelper.add_number = function(){
+        var phone_number = document.querySelector(".footer_break a").cloneNode(true);
+        console.log(phone_number);
+        document.querySelector(".bm-call").insertAdjacentElement("beforeend",phone_number);
+
+        //Change text of the span
+        var phone_number_text = document.querySelector(".bm-call a span").textContent;
+        var final_string = '('+phone_number_text.substr(0,3)+') '+phone_number_text.substr(4,phone_number_text.length);
+        
+        document.querySelector(".bm-call a span").innerHTML = final_string;
+
+        document.addEventListener('scroll',function(){
+            console.log("scrool");
+            var navbar = document.querySelector("#bm-wrapper");
+            console.log(navbar);
+            var sticky = navbar.offsetTop;
+            if (window.pageYOffset > sticky) {
+                navbar.classList.add("sticky")
+
+                //Now show the img and phone number to the header
+                document.querySelectorAll("#bm-wrapper > a img")[1].style.display = "block";
+                document.querySelectorAll("#bm-wrapper > a img")[0].style.display = "none";
+                document.querySelector("#bm-honda-image").style.display = "none";
+                document.querySelector(".bm-call").style.display = "block";
+            } else {
+                navbar.classList.remove("sticky");
+                document.querySelectorAll("#bm-wrapper > a img")[1].style.display = "none";
+                document.querySelectorAll("#bm-wrapper > a img")[0].style.display = "block";
+                document.querySelector("#bm-honda-image").style.display = "block";
+                document.querySelector(".bm-call").style.display = "none";
+            }
+        })
+    }
+    FeHelper.mobile = function () {
+        //First add an attribute to the parent for css
+        document.querySelector("header .dh_mobile .x-container").setAttribute("id","bm-wrapper");
+
+        //Add new image to the 7 year section
+        var html = ''+
+        '<img id="bm-dick-hannah" src="https://bm-test-dev.s3.us-east-2.amazonaws.com/DickHannah/DHD%2B70yr_lock-up_440x80.png" alt="Dick Hannah Dealerships">';
+        document.querySelector("#bm-wrapper > a").insertAdjacentHTML("beforeend",html);
+
+        //Dispaly none for the second image
+        document.querySelectorAll("#bm-wrapper > a")[1].setAttribute("id","bm-honda-image");
+
+        //Now add phone number in the honda section
+        html = ''+
+        '<div class="bm-call">'+
+            '<span>Call </span>'+
+        '</div>';
+        document.querySelector("#bm-wrapper > a").insertAdjacentHTML("afterend",html);
+        
+        //Now add the phone number to the bm-call div
+        FeHelper.doWhenElementLoaded(".footer_break a", FeHelper.add_number, 50, 10000);
+        
+    };
+    FeHelper.init = function () {
+      //Only in the mobile
+      var width = window.screen.width;
+      if (width < 768) {
+        FeHelper.mobile();
+      }
+    };
+    FeHelper.doWhenElementLoaded("header", FeHelper.init, 50, 10000);
+  } catch (err) {
+    // console && console.log(err);
+  }
+})();
+</script>
+<!-- Roadster Script -->
+<script> 
+(function(d,t,s,a,m){ a = d.createElement(t); m = d.getElementsByTagName(t)[0]; a.async = 1; a.src = s+"?dpid=dickhannahsubaru&host=" + window.location.hostname; m.parentNode.insertBefore(a, m); })(document,'script','https://cdn1.roadster.com/roadster_dealer_analytics'); 
+</script>
+<!--/////////////////////////////////////////////////////////////////////////////////////
+
+  Master Defer List
+
+//////////////////////////////////////////////////////////////////////////////////////-->
+<script type="text/javascript" defer>
+/* First CSS File */
+var style = document.createElement('link');
+style.rel = 'stylesheet';
+style.href = 'https://use.fontawesome.com/releases/v5.7.0/css/all.css';
+style.type = 'text/css';
+style.integrity = 'sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ';
+style.crossOrigin = 'anonymous';
+var styledefer = document.getElementsByTagName('link')[0];
+styledefer.parentNode.insertBefore(style, styledefer);
+
+/* Second CSS File 
+var style2 = document.createElement('link');
+style2.rel = 'stylesheet';
+style2.href = 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800';
+style2.type = 'text/css';
+var styledefer2 = document.getElementsByTagName('link')[0];
+styledefer2.parentNode.insertBefore(style2, styledefer2);*/
+
+/* Second CSS File 
+var style3 = document.createElement('link');
+style3.rel = 'stylesheet';
+style3.href = 'https://www.dickhannahsubaru.com/wp-content/themes/dh-x/css/chromeIncentives.css';
+style3.type = 'text/css';
+var styledefer3 = document.getElementsByTagName('link')[0];
+styledefer3.parentNode.insertBefore(style3, styledefer3);*/
+</script>
+<style>
+body {
+  font-family: arial, sans-serif;
+}
+</style>
+  <script async="true" src="https://prod.embed.conversations.dealerinspire.com/6352-db88-1298f" type="application/javascript"></script>
+<script src="https://cdn.complyauto.com/cookiebanner/banner.js" data-cacookieconsent-id="7717286e-374e-4e66-a8ed-10d456cb0f39"></script>
+</body>
+<!-- Foureyes Script -->
+<script type="text/javascript" async src="//scripts.foureyes.io/fe-init.js"></script>
+</html>
+
+
+
